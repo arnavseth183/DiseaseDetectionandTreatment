@@ -1,0 +1,1350 @@
+S.No,Disease,Symptoms,Treatment,Medicine,Treatment Duration,Medicine Duration
+1,Hypertension,"Headache, dizziness, blurred vision","Antihypertensives, lifestyle","Lisinopril, Amlodipine",Lifelong,Lifelong
+2,Type 2 Diabetes,"Increased thirst, frequent urination","Lifestyle changes, insulin","Metformin, Insulin",Lifelong,Lifelong
+3,Asthma,"Shortness of breath, wheezing, cough","Inhalers, corticosteroids","Albuterol, Fluticasone",Lifelong (chronic),Lifelong/as-needed
+4,Alzheimer’s Disease,"Memory loss, confusion",Slow-progression medications,"Donepezil, Memantine",Lifelong,Lifelong
+5,Malaria,"Fever, chills, sweating",Antimalarial drugs,"Chloroquine, Artemisinin",3–7 days,3–7 days
+6,Chronic Kidney Disease,"Fatigue, swelling, decreased urine","Dialysis, meds","Erythropoietin, binders",Lifelong,Lifelong
+7,COPD,"Chronic cough, breathlessness","Bronchodilators, steroids","Tiotropium, Prednisone",Lifelong,Lifelong
+8,Depression,"Sadness, low interest","Antidepressants, therapy","SSRIs, SNRIs",6–12 months or longer,6–12 months
+9,Osteoarthritis,"Joint pain, stiffness","Pain relief, therapy","Acetaminophen, NSAIDs",Chronic,Chronic/intermittent
+10,Rheumatoid Arthritis,"Joint pain, swelling",Immunosuppressants,"Methotrexate, Sulfasalazine",Lifelong,Lifelong
+11,Stroke,"Weakness, speech difficulty","Clot removal, rehab","Alteplase, Aspirin",3–6 months (rehab),1–3 months to lifelong
+12,Lung Cancer,"Cough, chest pain, weight loss","Chemo, radiation","Cisplatin, Paclitaxel",4–6 cycles (3–6 months),Per cycle
+13,Breast Cancer,"Lump, nipple discharge","Surgery, chemotherapy","Tamoxifen, Herceptin",6 months to years,5+ years (Tamoxifen)
+14,Prostate Cancer,Difficulty urinating,"Hormone therapy, surgery","Finasteride, Leuprolide",Varies (months–years),Long-term
+15,Tuberculosis,"Cough, fever, night sweats",Antibiotics (RIPE),"Isoniazid, Rifampin",6 months,6 months
+16,HIV/AIDS,"Weight loss, fever, lymph nodes",Antiretroviral therapy,"Zidovudine, Efavirenz",Lifelong,Lifelong
+17,Hepatitis B,"Jaundice, fatigue",Antivirals,"Tenofovir, Entecavir",6–12 months to lifelong,6–12 months
+18,Hepatitis C,"Fatigue, jaundice",Antivirals,"Sofosbuvir, Ribavirin",8–12 weeks,8–12 weeks
+19,Parkinson's,"Tremor, stiffness",Dopamine agonists,"Levodopa, Carbidopa",Lifelong,Lifelong
+20,Epilepsy,Seizures,Antiepileptic drugs,"Valproate, Phenytoin",Lifelong,Lifelong
+21,Influenza,"Fever, cough, aches",Antivirals,"Oseltamivir, Paracetamol",5–7 days,5–7 days
+22,Pneumonia,"Chest pain, cough, fever","Antibiotics, hospital","Amoxicillin, Azithromycin",5–10 days,5–10 days
+23,Anemia,"Fatigue, pale skin",Iron supplements,Ferrous sulfate,3–6 months,3–6 months
+24,Migraine,"Headache, nausea","Painkillers, lifestyle","Ibuprofen, Sumatriptan",Ongoing (episodic),As needed
+25,Appendicitis,Abdominal pain,Surgery,Painkillers,Post-op (1 week recovery),3–5 days
+26,Chickenpox,"Rash, fever",Symptomatic,"Calamine, antihistamines",7–10 days,5–7 days
+27,Measles,"Fever, rash, cough",Supportive,Vitamin A,7–10 days,2 days
+28,Dengue,"High fever, pain",Supportive,Paracetamol,7–10 days,5–7 days
+29,Lyme Disease,"Rash, fever",Antibiotics,Doxycycline,10–21 days,10–21 days
+30,Sickle Cell Anemia,"Pain, anemia","Pain relief, transfusions",Hydroxyurea,Lifelong,Lifelong
+31,Cystic Fibrosis,"Cough, infections","Physiotherapy, meds","Dornase alfa, Ivacaftor",Lifelong,Lifelong
+32,Glaucoma,"Eye pain, vision loss","Eye drops, surgery","Timolol, Latanoprost",Lifelong,Lifelong
+33,Multiple Sclerosis,"Numbness, vision loss",Immunomodulators,Interferon beta,Lifelong,Lifelong
+34,Psoriasis,Scaly skin patches,"Steroids, phototherapy","Corticosteroids, Methotrexate",Lifelong,As needed/intermittent
+35,Ulcerative Colitis,"Diarrhea, pain, blood",Anti-inflammatory drugs,"Mesalamine, Prednisone",Lifelong,As needed
+36,Crohn's Disease,"Pain, diarrhea",Immunosuppressants,"Azathioprine, Infliximab",Lifelong,Lifelong
+37,Gout,Joint pain,"NSAIDs, lifestyle","Colchicine, Allopurinol",7–14 days (flare); chronic prevention,As needed/chronic
+38,Thyroid Cancer,"Neck lump, voice changes","Surgery, iodine",Levothyroxine,6–12 months + monitoring,Lifelong
+39,Graves' Disease,"Anxiety, weight loss",Antithyroid drugs,"Methimazole, PTU",12–18 months,12–18 months
+40,Addison's Disease,"Fatigue, low BP",Hormone replacement,Hydrocortisone,Lifelong,Lifelong
+41,Endometriosis,Pelvic pain,"Pain management, surgery","NSAIDs, Hormonal therapy",Chronic,Chronic/intermittent
+42,Fibromyalgia,"Pain, fatigue","Pain mgmt., exercise","Pregabalin, Duloxetine",Chronic,Chronic
+43,Celiac Disease,"Diarrhea, bloating",Gluten-free diet,None,Lifelong,N/A
+44,Polycystic Kidney Disease,"BP, kidney cysts",BP control,ACE inhibitors,Lifelong,Lifelong
+45,Tetanus,"Stiffness, spasms","Antitoxin, antibiotics","TIG, Metronidazole",7–10 days,7–10 days
+46,Whooping Cough,Severe cough,Antibiotics,Azithromycin,5–10 days,5–10 days
+47,Meningitis,"Fever, stiff neck","Antibiotics, support","Ceftriaxone, Vancomycin",7–21 days,7–21 days
+48,Ebola Virus Disease,"Fever, bleeding",Supportive care,None (experimental),14–21 days,N/A
+49,Stroke (repeat for hemorrhagic),"Numbness, speech loss","Clot control, rehab","Aspirin, Alteplase",Weeks–months,Varies
+50,COVID-19 (for completeness),"Fever, cough, breathlessness","Isolation, antivirals","Paxlovid, Remdesivir",5–14 days,5–10 days
+51,Zika Virus,"Fever, rash, joint pain",Supportive care,None,7–10 days,None
+52,Chronic Fatigue Syndrome,"Extreme fatigue, sleep issues",Symptom management,"Pain relievers, antidepressants",Long-term,Long-term
+53,Lyme Disease,"Rash, fever, joint pain",Antibiotics,Doxycycline,14–21 days,14–21 days
+54,Acute Lymphoblastic Leukemia,"Fatigue, fever, bruising",Chemotherapy,"Methotrexate, Vincristine",2–3 years (phases),Per protocol
+55,Bipolar Disorder,"Mood swings, mania","Mood stabilizers, therapy","Lithium, Valproate",Lifelong,Lifelong
+56,Schizophrenia,"Hallucinations, delusions",Antipsychotics,"Risperidone, Clozapine",Lifelong,Lifelong
+57,Chronic Hepatitis,"Fatigue, jaundice",Antivirals,"Interferon, Ribavirin",6–12 months,6–12 months
+58,Cystitis,Painful urination,Antibiotics,"Nitrofurantoin, Ciprofloxacin",3–7 days,3–7 days
+59,Dermatitis,Itchy rash,Topical steroids,"Hydrocortisone, Tacrolimus",1–4 weeks,1–4 weeks
+60,Eczema,"Inflamed, itchy skin","Moisturizers, steroids","Hydrocortisone, Tacrolimus",Chronic,As needed
+61,Endocarditis,"Fever, heart murmur",IV antibiotics,"Penicillin, Vancomycin",4–6 weeks,4–6 weeks
+62,Gastritis,"Abdominal pain, nausea","PPIs, antacids","Omeprazole, Ranitidine",2–8 weeks,2–8 weeks
+63,Glomerulonephritis,"Blood in urine, swelling",Immunosuppressants,"Prednisone, Cyclophosphamide",Weeks–months,Per condition
+64,Guillain-Barré Syndrome,"Weakness, tingling","IVIG, plasma exchange",IVIG,5 days (IVIG),5 days
+65,Heart Failure,"Breathlessness, fatigue","Diuretics, ACE inhibitors","Furosemide, Enalapril",Lifelong,Lifelong
+66,Hemophilia,Excessive bleeding,Clotting factors,Factor VIII,As needed or prophylactic,Lifelong
+67,Herpes Simplex Virus,Cold/genital sores,Antivirals,"Acyclovir, Valacyclovir","7–10 days (acute), suppressive daily",7–10 days / chronic
+68,Histoplasmosis,"Fever, cough, fatigue",Antifungals,Itraconazole,Weeks–months,6–12 weeks
+69,Hodgkin’s Lymphoma,Lymph node swelling,"Chemotherapy, radiation",ABVD regimen,2–6 months,Per protocol
+70,Hyperthyroidism,"Weight loss, fast heartbeat","Antithyroid drugs, surgery","Methimazole, PTU",12–18 months,12–18 months
+71,Hypothyroidism,"Fatigue, weight gain",Hormone replacement,Levothyroxine,Lifelong,Lifelong
+72,Influenza,"Fever, cough, sore throat","Antivirals, rest","Oseltamivir, Zanamivir",5–7 days,5 days
+73,Iron Deficiency Anemia,"Fatigue, pale skin",Iron therapy,Ferrous sulfate,3–6 months,3–6 months
+74,Kawasaki Disease,"Fever, rash, lymph nodes",IVIG,IVIG,1–2 doses,1–2 days
+75,Kidney Stones,Severe pain,"Hydration, painkillers","NSAIDs, alpha blockers",Few days–weeks,3–14 days
+76,Leprosy,"Skin lesions, nerve damage",Antibiotics,"Dapsone, Rifampin",6–12 months,6–12 months
+77,Leukemia,"Fatigue, infections",Chemotherapy,"Methotrexate, Vincristine",2–3 years,Protocol-based
+78,Lymphoma,Swollen lymph nodes,Chemotherapy,CHOP regimen,3–6 months,Per protocol
+79,Malignant Melanoma,Changing skin lesion,"Surgery, chemo",Dacarbazine,Weeks–months,Per protocol
+80,Measles,"Fever, cough, rash",Supportive care,Vitamin A,7–10 days,2 days
+81,Multiple Myeloma,"Bone pain, fatigue",Chemotherapy,"Bortezomib, Lenalidomide",Lifelong (cycles),Per cycle
+82,Muscular Dystrophy,Muscle weakness,Physiotherapy,Corticosteroids,Lifelong,Lifelong
+83,Myocardial Infarction,Chest pain,Emergency + meds,"Aspirin, Nitroglycerin",Acute + rehab (3–6 months),1–12 months
+84,Narcolepsy,Daytime sleepiness,Stimulants,"Modafinil, Amphetamines",Lifelong,Lifelong
+85,Nephrotic Syndrome,"Swelling, proteinuria",Steroids,Prednisone,6–12 weeks,Per relapse
+86,Obesity,Excess weight,"Diet, meds","Orlistat, Liraglutide",Lifelong,Lifelong/as-needed
+87,Osteoporosis,Fragile bones,"Calcium, bisphosphonates",Alendronate,Years,Years
+88,Pancreatitis,"Abdominal pain, nausea","Pain control, fluids",Analgesics,3–7 days (acute),3–7 days
+89,Parkinson's Disease,"Tremor, stiffness",Dopamine agonists,"Levodopa, Carbidopa",Lifelong,Lifelong
+90,Peptic Ulcer,Abdominal pain,PPIs,"Omeprazole, Ranitidine",4–8 weeks,4–8 weeks
+91,Peripheral Neuropathy,"Numbness, pain",Symptom management,"Gabapentin, Pregabalin",Chronic,Chronic
+92,Pneumonia,"Cough, fever",Antibiotics,"Amoxicillin, Azithromycin",5–10 days,5–10 days
+93,Polio,"Fever, paralysis",Supportive care,None,Variable,None
+94,Psoriasis,Scaly skin patches,Topical therapy,Corticosteroids,Chronic,Chronic/as needed
+95,Rabies,"Fever, paralysis",PEP (vaccine + Ig),"Rabies vaccine, Ig",14–28 days,4–5 doses
+96,Rheumatoid Arthritis,"Joint pain, stiffness",Immunosuppressants,Methotrexate,Lifelong,Lifelong
+97,Scleroderma,Skin thickening,Immunosuppressants,"Methotrexate, Mycophenolate",Lifelong,Lifelong
+98,Sickle Cell Disease,"Pain, anemia","Transfusions, meds",Hydroxyurea,Lifelong,Lifelong
+99,Skin Cancer,New lesions,"Surgery, chemotherapy",Vemurafenib,Weeks–months,Per protocol
+100,Sleep Apnea,"Snoring, daytime fatigue",CPAP therapy,None,Lifelong,None
+101,Stroke,"Sudden weakness, speech difficulty","Clot removal, rehab","Alteplase, Aspirin",3–6 months,1–6 months/lifelong
+102,Acute Bronchitis,"Cough, mucus, fatigue","Rest, fluids","Albuterol, Dextromethorphan",7–14 days,5–10 days
+103,Addison’s Disease,"Fatigue, low BP",Hormone replacement,"Hydrocortisone, Fludrocortisone",Lifelong,Lifelong
+104,AMD,Blurred central vision,"Vitamins, lifestyle",None,Lifelong,N/A
+105,Alcoholism,"Cravings, withdrawal","Counseling, meds","Naltrexone, Disulfiram",Months–years,6+ months
+106,Allergic Rhinitis,"Sneezing, itchy eyes",Antihistamines,"Loratadine, Fluticasone",Chronic/seasonal,As needed
+107,ALS,Muscle weakness,Supportive care,Riluzole,Lifelong,Lifelong
+108,Anaphylaxis,"Breathing difficulty, rash",Emergency injection,Epinephrine,Immediate,1 dose
+109,Ankylosing Spondylitis,"Back pain, stiffness","NSAIDs, therapy","Ibuprofen, Sulfasalazine",Lifelong,Lifelong
+110,Anxiety Disorder,"Nervousness, restlessness","Therapy, meds","SSRIs, Benzodiazepines",Months–years,6+ months
+111,Aortic Aneurysm,Chest/back pain,Surgery,Beta blockers,Varies,Lifelong (if managed)
+112,Aplastic Anemia,"Fatigue, infections",Transplant,Immunosuppressants,Months–years,6–12 months
+113,Arrhythmia,"Palpitations, dizziness","Cardioversion, meds","Amiodarone, Beta blockers",Chronic,Lifelong
+114,Asperger Syndrome,Social difficulties,Behavioral therapy,None,Lifelong,N/A
+115,Astigmatism,Blurred vision,Lenses/surgery,None,Lifelong,N/A
+116,Atrial Fibrillation,Irregular heartbeat,Anticoagulants,"Warfarin, Digoxin",Lifelong,Lifelong
+117,Autism Spectrum Disorder,Social challenges,Therapy,None,Lifelong,N/A
+118,Bacterial Meningitis,"Fever, stiff neck",Antibiotics,"Ceftriaxone, Vancomycin",7–21 days,7–21 days
+119,Barrett’s Esophagus,"Heartburn, chest pain",Acid suppression,Omeprazole,Lifelong,Lifelong
+120,BPH,Frequent urination,"Meds, surgery","Tamsulosin, Finasteride",Lifelong,Lifelong
+121,Bladder Cancer,Blood in urine,"Surgery, chemo","Mitomycin, BCG",Months,Per cycle
+122,DVT (Blood Clots),"Leg pain, redness",Anticoagulants,"Warfarin, Heparin",3–6 months,3–6 months
+123,Bone Cancer,"Bone pain, swelling","Surgery, chemo","Methotrexate, Doxorubicin",6+ months,Per protocol
+124,Botulism,Muscle weakness,Antitoxin,Botulinum antitoxin,Immediate,Single dose
+125,Brain Tumor,"Headaches, seizures","Surgery, chemo",Temozolomide,Months,Per protocol
+126,Bronchiectasis,Chronic cough,"Antibiotics, therapy",Azithromycin,Chronic,Varies
+127,Bulimia Nervosa,Bingeing/purging,"Therapy, meds",SSRIs,Months,6+ months
+128,Bursitis,Joint swelling,"NSAIDs, rest",Ibuprofen,1–2 weeks,As needed
+129,Candidiasis,White patches,Antifungals,Fluconazole,3–7 days,3–7 days
+130,Carpal Tunnel Syndrome,Hand numbness,"Splinting, surgery",NSAIDs,2–6 weeks,As needed
+131,Cataracts,Cloudy vision,Surgery,None,Permanent,N/A
+132,Cellulitis,"Redness, swelling",Antibiotics,Cephalexin,7–10 days,7–10 days
+133,Cerebral Palsy,"Stiffness, coordination","Therapy, meds","Baclofen, Diazepam",Lifelong,Lifelong
+134,Cervical Cancer,"Bleeding, pelvic pain","Surgery, chemo",Cisplatin,Months,Per cycle
+135,Charcot-Marie-Tooth,Muscle weakness,Therapy,None,Lifelong,N/A
+136,Chickenpox,"Rash, fever",Symptomatic care,"Calamine, antihistamines",7–10 days,5–7 days
+137,Chlamydia,Painful urination,Antibiotics,Azithromycin,1–7 days,1–7 days
+138,CLL,"Fatigue, swollen nodes","Chemo, targeted meds","Ibrutinib, Rituximab",Lifelong,Per cycle
+139,COPD,"Cough, breathlessness","Bronchodilators, steroids","Tiotropium, Prednisone",Lifelong,Lifelong
+140,Chronic Pain,Persistent pain,"Therapy, meds","NSAIDs, Opioids",Lifelong,As needed
+141,Cirrhosis,"Fatigue, swelling",Lifestyle changes,"Diuretics, Lactulose",Lifelong,Lifelong
+142,Cleft Lip/Palate,Facial defect,Surgery,None,Permanent,N/A
+143,C. diff Infection,"Diarrhea, fever",Antibiotics,"Vancomycin, Metronidazole",10–14 days,10–14 days
+144,Cluster Headaches,Intense headache,"Oxygen, meds","Sumatriptan, Verapamil",Chronic,As needed
+145,Colon Cancer,Blood in stool,"Surgery, chemo","5-FU, Oxaliplatin",6–12 months,Per cycle
+146,Conjunctivitis,"Red, itchy eyes",Antibiotics/antihistamines,"Ciprofloxacin, Olopatadine",5–7 days,5–7 days
+147,CAD,Chest pain,"Lifestyle, surgery","Aspirin, Statins",Lifelong,Lifelong
+148,Crohn’s Disease,Abdominal pain,Immunosuppressants,"Azathioprine, Infliximab",Lifelong,Lifelong
+149,Cushing’s Syndrome,"Weight gain, BP","Surgery, meds",Ketoconazole,Varies,Months
+150,Dandruff,"Scaly, itchy scalp",Medicated shampoo,Ketoconazole,Ongoing,As needed
+151,DVT,"Leg pain, swelling",Anticoagulants,"Warfarin, Heparin",3–6 months,3–6 months
+152,Dementia,Memory loss,Symptom management,"Donepezil, Memantine",Lifelong,Lifelong
+153,Dengue Fever,"Fever, rash",Supportive care,Paracetamol,7–10 days,5–7 days
+154,Depression,"Sadness, low interest","Therapy, meds","SSRIs, SNRIs",6–12 months,6–12 months
+155,Dermatitis,Itchy rash,Steroid creams,Hydrocortisone,1–4 weeks,As needed
+156,Type 1 Diabetes,Frequent urination,Insulin therapy,Insulin,Lifelong,Lifelong
+157,Type 2 Diabetes,"Thirst, urination",Lifestyle + meds,"Metformin, Insulin",Lifelong,Lifelong
+158,Diabetic Retinopathy,Blurred vision,"Laser, injections",Anti-VEGF,Varies,Monthly–yearly
+159,Diarrhea,Loose stools,Rehydration,ORS,1–3 days,As needed
+160,Diphtheria,"Sore throat, fever","Antitoxin, antibiotics","Penicillin, Erythromycin",10–14 days,10–14 days
+161,Down Syndrome,Intellectual disability,Supportive care,None,Lifelong,N/A
+162,Duchenne MD,Muscle weakness,"Therapy, steroids",Prednisone,Lifelong,Lifelong
+163,Ear Infection,"Ear pain, fever",Antibiotics,Amoxicillin,5–10 days,5–10 days
+164,Eclampsia,Seizures in pregnancy,"Delivery, magnesium",MgSO4,Immediate,1–2 days
+165,Eczema,"Dry, itchy skin","Moisturizers, steroids",Hydrocortisone,Chronic,As needed
+166,Emphysema,"SOB, chronic cough","Oxygen, bronchodilators",Tiotropium,Lifelong,Lifelong
+167,Endometriosis,Pelvic pain,"Surgery, hormones","NSAIDs, Hormonal therapy",Chronic,Varies
+168,Epidermolysis Bullosa,Blistering skin,Wound care,None,Lifelong,N/A
+169,Epilepsy,Seizures,AEDs,"Phenytoin, Valproate",Lifelong,Lifelong
+170,Erectile Dysfunction,Erection difficulty,"Therapy, meds","Sildenafil, Tadalafil",As needed,As needed
+171,Esophageal Cancer,Swallowing difficulty,"Surgery, chemo","Cisplatin, 5-FU",Months,Per cycle
+172,Fibromyalgia,"Fatigue, pain","Therapy, meds","Pregabalin, Duloxetine",Chronic,Chronic
+173,Food Allergy,"Swelling, rash","Avoidance, epinephrine",Epinephrine,Immediate,Single dose
+174,Gallstones,Abdominal pain,"Surgery, meds",Ursodiol,Weeks–months,3–6 months
+175,Gastric Cancer,Abdominal pain,"Surgery, chemo","Cisplatin, 5-FU",Months,Per protocol
+176,Gastroenteritis,"Diarrhea, vomiting",Rehydration,ORS,2–5 days,2–5 days
+177,GERD,Heartburn,"Lifestyle, meds","Omeprazole, Ranitidine",4–8 weeks,Chronic
+178,Glaucoma,Vision loss,"Eye drops, surgery","Latanoprost, Timolol",Lifelong,Lifelong
+179,Gout,"Joint pain, swelling","NSAIDs, lifestyle","Allopurinol, Colchicine",Chronic,As needed
+180,Graves' Disease,Rapid heartbeat,Antithyroid drugs,Methimazole,12–18 months,12–18 months
+181,Guillain-Barre,"Weakness, paralysis","IVIG, plasma exchange",IVIG,5 days,5 days
+182,Hair Loss,Patchy loss,Corticosteroids,Minoxidil,Weeks–months,Ongoing
+183,HFMD,"Fever, sores",Supportive care,None,7–10 days,N/A
+184,Hashimoto’s,"Fatigue, weight gain",Hormone replacement,Levothyroxine,Lifelong,Lifelong
+185,Headache (Tension),Head pain,Painkillers,Ibuprofen,As needed,As needed
+186,Heart Attack,Chest pain,Emergency meds,"Aspirin, Nitroglycerin",Weeks–months,1–6 months
+187,Heart Valve Disease,"SOB, fatigue","Surgery, meds",Beta blockers,Lifelong,Lifelong
+188,Hemochromatosis,"Fatigue, joint pain",Phlebotomy,None,Lifelong,N/A
+189,Hemorrhoids,"Pain, bleeding","Lifestyle, surgery",Topical steroids,1–2 weeks,As needed
+190,Hepatitis A,Jaundice,Supportive care,None,2–6 weeks,N/A
+191,Hepatitis B,"Jaundice, pain",Antivirals,Tenofovir,6–12 months,6–12 months
+192,Hepatitis C,"Fatigue, jaundice",Antivirals,"Sofosbuvir, Ledipasvir",8–12 weeks,8–12 weeks
+193,HSV,Cold/genital sores,Antivirals,Acyclovir,7–10 days,Chronic
+194,Hypertension,Often asymptomatic,"Lifestyle, meds",ACE inhibitors,Lifelong,Lifelong
+195,HIV/AIDS,"Weight loss, infections",ART,"Zidovudine, Lamivudine",Lifelong,Lifelong
+196,Hodgkin Lymphoma,Swollen nodes,"Chemo, radiation",ABVD regimen,6 months,Per protocol
+197,HPV Infection,Warts,"Topicals, vaccine",Imiquimod,Weeks,Varies
+198,Huntington’s,Movement decline,Supportive,Tetrabenazine,Lifelong,Lifelong
+199,Hypercholesterolemia,Often asymptomatic,"Diet, statins",Statins,Lifelong,Lifelong
+200,Hyperthyroidism,"Weight loss, palpitations","Drugs, surgery","Methimazole, PTU",12–18 months,12–18 months
+201,Hyperthyroidism,"Weight loss, rapid heartbeat","Antithyroid drugs, surgery","Methimazole, Propylthiouracil",12–18 months,12–18 months
+202,Hypoglycemia,"Shakiness, confusion","Glucose intake, medications","Glucose tablets, Glucagon",Immediate,Single/As needed
+203,Hypothyroidism,"Fatigue, weight gain",Hormone replacement,Levothyroxine,Lifelong,Lifelong
+204,IBS,"Abdominal pain, bloating","Diet changes, medications","Antispasmodics, Laxatives",Ongoing,As needed
+205,Influenza,"Fever, cough, aches","Supportive care, antivirals","Oseltamivir, Zanamivir",5–7 days,5 days
+206,Insomnia,Sleep difficulties,"Sleep hygiene, medications","Zolpidem, Melatonin",Weeks–months,As needed
+207,Interstitial Lung Disease,"Breathlessness, dry cough","Oxygen, medications","Steroids, Immunosuppressants",Months–years,Chronic
+208,Iron Deficiency Anemia,"Fatigue, pale skin",Iron supplements,Ferrous sulfate,3–6 months,3–6 months
+209,Kawasaki Disease,"Fever, rash",IVIG therapy,IVIG,Single dose,Single dose
+210,Kidney Stones,"Severe pain, hematuria","Pain management, fluids",NSAIDs,Days–weeks,5–10 days
+211,Kidney Failure (Chronic),"Fatigue, low urine","Dialysis, transplant",Erythropoietin,Lifelong,Lifelong
+212,Laryngitis,"Hoarseness, sore throat","Voice rest, steroids",Prednisone,3–7 days,3–5 days
+213,Lactose Intolerance,"Bloating, diarrhea",Avoid dairy,Lactase enzyme,Lifelong,As needed
+214,Lassa Fever,"Fever, hemorrhage",Supportive care,Ribavirin,10 days,10 days
+215,Legionnaires’ Disease,"Cough, fever",Antibiotics,"Azithromycin, Levofloxacin",7–10 days,7–10 days
+216,Leukemia,"Fatigue, bleeding","Chemotherapy, BMT",Chemo drugs,Months–years,Protocol-specific
+217,Lewy Body Dementia,Cognitive decline,Symptom control,Cholinesterase inhibitors,Lifelong,Lifelong
+218,Lice Infestation,"Itching, lice/nits",Topical insecticides,"Permethrin, Malathion",Single–repeat dose,1–2 weeks
+219,Liver Cancer,"Pain, weight loss","Surgery, chemotherapy",Sorafenib,Varies,Cycle-based
+220,Liver Cirrhosis,"Fatigue, jaundice","Lifestyle, meds","Diuretics, Lactulose",Lifelong,Lifelong
+221,ALS (Lou Gehrig’s),Muscle weakness,Supportive care,Riluzole,Lifelong,Lifelong
+222,Lupus,"Fatigue, joint pain",Immunosuppressants,"Hydroxychloroquine, Steroids",Lifelong,Lifelong
+223,Lyme Disease,"Rash, joint pain",Antibiotics,"Doxycycline, Amoxicillin",2–4 weeks,2–4 weeks
+224,Malaria,"Fever, chills",Antimalarials,"Artemisinin, Chloroquine",3–7 days,3–7 days
+225,Malnutrition,"Weight loss, weakness",Nutritional support,Vitamins/minerals,Months,1–3 months
+226,Meningitis,"Fever, headache","Antibiotics, antivirals","Ceftriaxone, Acyclovir",7–21 days,7–21 days
+227,Menopause,Hot flashes,Hormone therapy,Estrogen/Progestin,Years,Varies
+228,Migraine,Severe headache,"Pain relief, prevention","Sumatriptan, Beta blockers",Chronic,As needed
+229,Multiple Sclerosis,"Numbness, vision issues",Immunomodulators,"Interferon-beta, Glatiramer",Lifelong,Lifelong
+230,Multiple Myeloma,"Bone pain, anemia","Chemo, stem cells","Bortezomib, Lenalidomide",Months,Per protocol
+231,Muscle Cramps,Muscle pain,"Stretching, hydration",Magnesium,Days–weeks,As needed
+232,Myasthenia Gravis,"Weakness, drooping",Immunosuppressants,"Pyridostigmine, Steroids",Lifelong,Lifelong
+233,Myocardial Infarction,Chest pain,Emergency care,"Aspirin, Nitroglycerin",Immediate + long-term,1–6 months
+234,Narcolepsy,Daytime sleepiness,Medications,"Modafinil, Sodium oxybate",Lifelong,Lifelong
+235,Nasal Polyps,Loss of smell,"Steroids, surgery","Fluticasone, Prednisone",Weeks–months,Varies
+236,Necrotizing Fasciitis,"Pain, fever","Surgery, antibiotics","Penicillin, Clindamycin",Immediate,10–14 days
+237,Nephrotic Syndrome,"Swelling, proteinuria","Steroids, diuretics","Prednisone, Furosemide",Months,6–12 months
+238,Neuroblastoma,Abdominal swelling,"Chemo, surgery","Cyclophosphamide, Vincristine",Months,Per cycle
+239,Neuropathy,"Tingling, pain",Pain meds,"Gabapentin, Pregabalin",Chronic,Lifelong
+240,Non-Hodgkin Lymphoma,Swollen nodes,"Chemo, radiation",CHOP regimen,Months,Per cycle
+241,Obesity,Breathlessness,"Diet, surgery","Orlistat, Liraglutide",Months–years,Chronic
+242,Occupational Asthma,Work cough,Avoid triggers,Inhaled corticosteroids,Chronic,As needed
+243,Osteoarthritis,Joint pain,"Therapy, pain meds","NSAIDs, Acetaminophen",Chronic,As needed
+244,Osteomyelitis,Bone pain,"Antibiotics, surgery","Vancomycin, Ceftriaxone",4–6 weeks,4–6 weeks
+245,Osteoporosis,Fragile bones,"Supplements, meds",Bisphosphonates,Years,Monthly/yearly
+246,Otitis Externa,Ear pain,Antibiotic drops,Ciprofloxacin,7–10 days,7–10 days
+247,Ovarian Cancer,"Bloating, pelvic pain","Surgery, chemo","Carboplatin, Paclitaxel",Months,Per cycle
+248,Panic Disorder,Sudden fear,"Therapy, meds","SSRIs, Benzodiazepines",Months,6+ months
+249,Pancreatitis,Abdominal pain,Hospital care,Analgesics,Days–weeks,As needed
+250,Parkinson’s Disease,"Tremors, rigidity","Therapy, meds","Levodopa, Carbidopa",Lifelong,Lifelong
+251,PID,"Abdominal pain, fever",Antibiotics,"Doxycycline, Metronidazole",14 days,14 days
+252,Peptic Ulcer,Stomach pain,"Acid reducers, antibiotics","Omeprazole, Amoxicillin",2–4 weeks,2–4 weeks
+253,PAD,Leg pain,"Surgery, meds","Statins, Antiplatelets",Lifelong,Lifelong
+254,Pertussis,Whooping cough,Antibiotics,Azithromycin,5–10 days,5–10 days
+255,PKU,Intellectual disability,Diet control,None,Lifelong,N/A
+256,Phlebitis,Swelling along vein,NSAIDs,NSAIDs,1–2 weeks,5–10 days
+257,Pilonidal Cyst,Pain near tailbone,Surgery,Antibiotics if infected,Permanent,If infected
+258,Pityriasis Rosea,Rash,Symptomatic care,Antihistamines,6–8 weeks,As needed
+259,Pneumonia,"Cough, fever","Antibiotics, support","Amoxicillin, Azithromycin",5–10 days,5–10 days
+260,Polio,Paralysis,Supportive care,None,Lifelong,N/A
+261,PCOS,Irregular periods,"Lifestyle, meds","Metformin, OCPs",Chronic,Chronic
+262,PTSD,"Flashbacks, anxiety","Therapy, meds","SSRIs, Prazosin",Months–years,6+ months
+263,PMS,Mood swings,"Lifestyle, meds","NSAIDs, SSRIs",Monthly,Monthly
+264,Primary Biliary Cholangitis,"Itching, fatigue",Medication,Ursodeoxycholic acid,Lifelong,Lifelong
+265,Primary Sclerosing Cholangitis,Jaundice,Supportive,None,Lifelong,N/A
+266,Prostate Cancer,Urination issues,"Surgery, radiation",Hormone therapy,Months–years,Chronic
+267,Psoriasis,"Red, scaly patches","Topicals, phototherapy","Steroids, Vit D analogs",Chronic,As needed
+268,Pulmonary Embolism,"Chest pain, SOB",Anticoagulants,"Heparin, Warfarin",3–6 months,3–6 months
+269,Rabies,"Fever, paralysis",Post-exposure PEP,"Rabies vaccine, RIG",4 doses,14–28 days
+270,Rheumatoid Arthritis,Joint pain,DMARDs,"Methotrexate, NSAIDs",Lifelong,Lifelong
+271,Rickets,Bone pain,Supplements,"Vitamin D, Calcium",Months,3–6 months
+272,Rosacea,Facial redness,Topical meds,Metronidazole,Chronic,As needed
+273,Rotavirus,"Diarrhea, vomiting",Rehydration,ORS,3–5 days,As needed
+274,Scleroderma,Skin thickening,Immunosuppressants,Methotrexate,Chronic,Chronic
+275,Scurvy,"Weakness, bleeding",Vitamin C,Vitamin C,Weeks,1–3 months
+276,SAD,Winter depression,"Light therapy, meds",SSRIs,Seasonal,3–6 months
+277,Sepsis,"Fever, confusion","Antibiotics, ICU",Broad-spectrum antibiotics,Immediate,7–14 days
+278,Septic Arthritis,"Joint pain, fever","Drainage, antibiotics","Vancomycin, Ceftriaxone",2–6 weeks,2–6 weeks
+279,Shingles,Painful rash,Antivirals,"Acyclovir, Valacyclovir",7–10 days,7–10 days
+280,Sickle Cell Disease,Pain crises,"Pain meds, transfusions",Hydroxyurea,Lifelong,Lifelong
+281,Skin Cancer,"Moles, lesions","Surgery, immunotherapy","Nivolumab, Pembrolizumab",Months,Per cycle
+282,Sleep Apnea,"Snoring, drowsiness","CPAP, lifestyle",None,Lifelong,N/A
+283,Smallpox,"Rash, fever",Vaccination,None,Eradicated,N/A
+284,Spina Bifida,"Paralysis, bladder issues","Surgery, therapy",None,Lifelong,N/A
+285,Strep Throat,"Sore throat, fever",Antibiotics,"Penicillin, Amoxicillin",7–10 days,7–10 days
+286,Stroke,"Weakness, speech issues",Emergency care,Thrombolytics,Immediate,1 dose
+287,SLE,"Fatigue, rash",Immunosuppressants,Hydroxychloroquine,Lifelong,Lifelong
+288,Syphilis,"Sores, rash",Antibiotics,Penicillin,Single dose,1–2 doses
+289,Tetanus,Muscle spasms,"Antitoxin, antibiotics","TIG, Penicillin",10 days,10 days
+290,Thalassemia,Anemia,Transfusions,None,Lifelong,N/A
+291,Thyroid Cancer,Neck lump,"Surgery, RAI",Levothyroxine,Lifelong,Lifelong
+292,Tinea,Itchy skin,Antifungal creams,Clotrimazole,2–4 weeks,2–4 weeks
+293,Tonsillitis,Sore throat,"Antibiotics, rest",Penicillin,7–10 days,7–10 days
+294,Tuberculosis,"Cough, weight loss",Antibiotics,"INH, Rifampicin",6–9 months,6–9 months
+295,Tularemia,"Ulcers, fever",Antibiotics,Streptomycin,10–21 days,10–21 days
+296,Turner Syndrome,"Short height, infertility",Hormones,"GH, Estrogen",Years,Lifelong
+297,Ulcerative Colitis,"Diarrhea, pain",Anti-inflammatory drugs,"Mesalamine, Steroids",Lifelong,Lifelong
+298,UTI,Painful urination,Antibiotics,"Nitrofurantoin, Cipro",3–7 days,3–7 days
+299,Uterine Fibroids,Heavy bleeding,"Surgery, meds",GnRH agonists,3–6 months,3–6 months
+300,Varicella,"Itchy rash, fever","Supportive, antivirals",Acyclovir,5–7 days,5–7 days
+301,Vitiligo,White patches on skin,NB?UVB phototherapy + topical steroids,"Corticosteroids, Tacrolimus",2–3 times/week NB?UVB for 6–12 months,Tacrolimus: up to 12 months; corticosteroids: evaluate at 3–6 months
+302,Vocal Cord Nodules,"Hoarseness, breathy voice","Voice therapy, surgery",Not applicable,Voice therapy: 2–6 months; surgery recovery: up to 6 months,Not applicable
+303,Waldenström Macroglobulinemia,"Fatigue, bleeding, neuropathy","Chemotherapy, plasmapheresis","Rituximab, Cyclophosphamide",Approximately 6 chemotherapy cycles (~18 weeks),Rituximab: every 3–4 weeks; Cyclophosphamide: ~18 weeks
+304,Warts,Skin bumps,"Cryotherapy, topical treatment",Salicylic acid,Cryotherapy weekly for 3–4 weeks; topical treatment up to 12 weeks,Daily for up to 12 weeks
+305,West Nile Virus Infection,"Fever, rash, neurological symptoms",Supportive care,Not applicable,Acute phase typically lasts 2–3 weeks,Not applicable
+306,Whooping Cough (Pertussis),"Severe cough, vomiting",Antibiotics,"Azithromycin, Erythromycin",Azithromycin: 5 days; Erythromycin: 7–14 days,Same as treatment duration
+307,Wilson’s Disease,"Liver disease, neurological symptoms",Lifelong chelation therapy,"Penicillamine, Trientine",Lifelong control of copper levels,Lifelong administration
+308,Xeroderma Pigmentosum,"Extreme UV sensitivity, skin cancers",Strict UV protection,Not applicable,Lifelong protection from UV exposure,Not applicable
+309,Yellow Fever,"Fever, jaundice, bleeding",Supportive care,Not applicable,Symptomatic care for approximately 2 weeks,Not applicable
+310,Zika Virus Infection,"Fever, rash, joint pain",Supportive care,Not applicable,Symptomatic care for about 1 week,Not applicable
+311,Adenomyosis,"Heavy menstrual bleeding, pelvic pain",Hormonal therapy or surgery,"NSAIDs, Hormonal contraceptives",Hormonal therapy: 3–6 months; surgery recovery: 4–6 weeks,NSAIDs: per menstrual cycle; contraceptives: ongoing
+312,Addison’s Disease,"Fatigue, weight loss, low blood pressure",Hormone replacement therapy,"Hydrocortisone, Fludrocortisone",Lifelong replacement therapy,Lifelong treatment
+313,Adhesive Capsulitis,"Shoulder pain, stiffness",Physical therapy + steroids,"NSAIDs, Corticosteroids",Physical therapy: 4–6 months; steroids: 2–4 weeks,NSAIDs: as needed; corticosteroids: 2–4 weeks
+314,Age-related Macular Degeneration,Central vision loss,Anti?VEGF injections,Anti?VEGF drugs,"Monthly injections for ~3–6 months, then as needed",Same as treatment duration
+315,Aicardi Syndrome,"Seizures, developmental delay",Symptom management,Antiepileptics,Lifelong seizure management,Ongoing as prescribed
+316,Akathisia,"Restlessness, anxiety","Medication adjustment, beta blockers","Beta blockers, Benzodiazepines",Weeks to months until symptoms stabilize,Until symptoms resolve
+317,Albinism,"Lack of pigment, vision problems",UV protection and vision support,Not applicable,Lifelong protective measures,Not applicable
+318,Alcoholic Liver Disease,"Jaundice, fatigue",Abstinence and supportive care,Not applicable,Depends on sustained abstinence and liver recovery,Not applicable
+319,Alopecia Areata,Patchy hair loss,Steroids and immunotherapy,Corticosteroids,Injections every 4–6 weeks for 3–6 months,Same as treatment duration
+320,Alpha?1 Antitrypsin Deficiency,Lung and liver disease,Weekly augmentation therapy,Alpha?1 antitrypsin,Weekly infusions indefinitely,Weekly infusions indefinitely
+321,ALS (Amyotrophic Lateral Sclerosis),"Muscle weakness, twitching",Supportive care,Riluzole,Lifelong symptomatic support,Lifelong therapy
+322,Alternating Hemiplegia of Childhood,Recurrent paralysis,Symptom management,Flunarizine,Chronic symptom management,Chronic medication
+323,Amebiasis,"Diarrhea, abdominal pain",Metronidazole therapy,Metronidazole,7–10 days,7–10 days
+324,Anemia of Chronic Disease,"Fatigue, weakness",Treat underlying condition,Not applicable,Duration depends on primary disease management,Not applicable
+325,Anosmia,Loss of smell,Underlying cause treatment,Not applicable,Weeks to months based on cause,Not applicable
+326,Anthrax,"Skin ulcers, respiratory distress",Antibiotic therapy,"Ciprofloxacin, Doxycycline",Cutaneous: 7–10 days; inhalational: 60 days,Same as treatment duration for each form
+327,Anxiety Disorder,"Excessive worry, restlessness",Therapy + medications,"SSRIs, Benzodiazepines",SSRI treatment: at least 6 months; benzodiazepines: <4 weeks,SSRI: at least 6 months; benzodiazepines: ?4 weeks
+328,Aortic Aneurysm,"Often asymptomatic, chest/back pain",Surgical repair,Beta blockers,Post-surgery recovery: ~6 weeks,Ongoing maintenance therapy
+329,Aortic Stenosis,"Chest pain, shortness of breath",Valve replacement surgery,Not applicable,Recovery: approximately 6 weeks,Not applicable
+330,Aphasia,Difficulty speaking/understanding,Speech therapy,Not applicable,Therapy continues for months to years,Not applicable
+331,Apnea of Prematurity,Pauses in newborn breathing,Respiratory support,Caffeine citrate,Until infant reaches ~35–37 weeks gestational age,Same as treatment duration
+332,Appendicitis,"Abdominal pain, fever",Surgery + antibiotics,Cefazolin/metronidazole (standard),Surgery within 24 hrs; antibiotics for 5–7 days post-op,Same as treatment duration
+333,Aplastic Anemia,"Fatigue, infections",ATG therapy + stem cell transplant,Antithymocyte globulin,ATG for 5 days; transplant preparation varies,5 days of ATG therapy
+334,Arrhythmia,"Palpitations, dizziness",Medication and/or ablation,"Beta blockers, Amiodarone",Beta blockers: ongoing; Amiodarone: months to years,Same as treatment duration
+335,Asperger’s Syndrome,"Social difficulties, repetitive behaviors",Behavioral therapy,Not applicable,Ongoing therapy-based interventions,Not applicable
+336,Astigmatism,Blurred vision,Corrective lenses or surgery,Not applicable,Glasses lifelong; post-surgery recovery: ~6 weeks,Not applicable
+337,Atherosclerosis,Chest/leg pain,Lifestyle changes + medication,"Statins, Antiplatelets",Lifestyle changes: lifelong; statins: lifelong,Lifelong medication
+338,Atopic Dermatitis,"Itchy, inflamed skin",Moisturizers + topical steroids,Topical corticosteroids,Steroid application: 1–2 weeks; moisturizer: ongoing,Steroids: 1–2 weeks; moisturizers ongoing
+339,Atrial Fibrillation,"Irregular heartbeat, palpitations",Rate control and anticoagulation,"Beta blockers, Warfarin",Anticoagulation: ?3 months; beta blockers: ongoing,Anticoagulation: ?3 months; beta blockers lifelong
+340,Autism Spectrum Disorder,Social interaction issues,Behavioral therapy,Not applicable,Continuous developmental support,Not applicable
+341,Autoimmune Hepatitis,"Fatigue, jaundice",Prednisone + Azathioprine,"Prednisone, Azathioprine",Induction: 6–12 months; maintenance: years,Ongoing maintenance therapy
+342,Barrett’s Esophagus,"Heartburn, acid reflux",Proton pump inhibitors ± surgery,Proton pump inhibitors,PPI: lifelong; surgery recovery: ~6 weeks,Lifelong PPI therapy
+343,Bell’s Palsy,Sudden facial weakness,Corticosteroids + physical therapy,Prednisone,Steroids for 10 days; physiotherapy: ~4 weeks,10-day corticosteroid course
+344,Benign Prostatic Hyperplasia,"Frequent urination, weak flow",Medication ± surgery,"Alpha blockers, 5-alpha reductase inhibitors",Alpha blockers: ongoing; 5-ARIs: 6–12 months,Alpha blockers ongoing; 5-ARIs: 6–12 months
+345,Bipolar Disorder,"Mood swings, depression, mania",Mood stabilizers + therapy,"Lithium, Valproate",Stabilizers: lifelong; therapy: ongoing,Lithium/Valproate: lifelong treatment
+346,Bladder Cancer,"Blood in urine, pelvic pain",Surgery + BCG or chemotherapy,"BCG, Cisplatin",BCG: weekly for 6 weeks; Cisplatin cycles vary,Same as treatment duration
+347,Blepharitis,"Eyelid inflammation, redness",Eyelid hygiene + antibiotics,Topical antibiotics,Hygiene: ongoing; antibiotic drops: 2–4 weeks,2–4 weeks
+348,Blood Clots (DVT),"Swelling, leg pain",Heparin and Warfarin,"Heparin, Warfarin",Heparin bridge: 5–7 days; Warfarin: at least 3 months,Same as treatment duration
+349,Body Dysmorphic Disorder,Obsession with perceived flaws,Therapy + medication,SSRIs,Therapy: ongoing; SSRIs: at least 12 months,SSRI treatment: ?12 months
+350,Botulism,"Muscle weakness, paralysis",Antitoxin + supportive care,Botulinum antitoxin,Single antitoxin dose; supportive care lasts days–weeks,Single antitoxin dose
+351,Brain Tumors,"Headaches, seizures","Surgery, radiation therapy",Chemotherapy,6 months to 1 year,Depends on cycles (21-day cycle)
+352,Bronchiectasis,"Chronic cough, mucus production","Antibiotics, physiotherapy","Amoxicillin, Azithromycin",2–4 weeks,7–14 days
+353,Bronchitis,"Cough, mucus production",Supportive care,"Bronchodilators, Prednisolone",1–2 weeks,5–10 days
+354,Bruxism,"Teeth grinding, jaw pain","Mouthguards, stress management",None,Long-term,Not applicable
+355,Bulimia Nervosa,"Binge eating, purging","Therapy, nutritional counseling",Fluoxetine (SSRI),Several months,Once daily (20–60 mg/day)
+356,Bursitis,"Joint pain, swelling","Rest, NSAIDs","Ibuprofen, Naproxen",1–2 weeks,5–10 days
+357,C. difficile Infection,"Severe diarrhea, abdominal pain",Antibiotics,"Vancomycin, Metronidazole",10–14 days,10–14 days
+358,Candidiasis (Thrush),White patches in mouth/genitals,Antifungals,"Fluconazole, Nystatin",1–2 weeks,7–14 days
+359,Carpal Tunnel Syndrome,"Hand numbness, tingling","Splinting, surgery",NSAIDs,Weeks to months,7–10 days (for NSAIDs)
+360,Cataracts,"Blurred vision, glare sensitivity",Surgery,None,One-time surgical,Not applicable
+361,Celiac Disease,"Diarrhea, abdominal pain",Gluten-free diet,None,Lifelong,Not applicable
+362,Central Sleep Apnea,"Pauses in breathing, sleepiness","CPAP, surgery",None,Lifelong,Not applicable
+363,Cerebral Palsy,"Motor impairment, spasticity","Therapy, surgery",None,Lifelong,Not applicable
+364,Cervical Cancer,"Abnormal bleeding, pelvic pain","Surgery, chemotherapy","Cisplatin, Radiation therapy",Several months,Weekly (for chemo)
+365,Chalazion,"Eyelid lump, swelling","Warm compress, surgery",None,Few weeks,Not applicable
+366,Chickenpox,"Itchy rash, fever",Supportive care,Acyclovir (in some cases),1–2 weeks,5–7 days (if given)
+367,Chlamydia,"Painful urination, discharge",Antibiotics,"Azithromycin, Doxycycline",Single dose or 7 days,1 day (Azithro) / 7 days (Doxy)
+368,Chronic Fatigue Syndrome,"Extreme fatigue, cognitive issues",Symptom management,None,Long-term,Not applicable
+369,Chronic Kidney Disease,"Fatigue, swelling, decreased urination","Dialysis, transplant",Erythropoietin,Lifelong,1–3 times/week
+370,COPD,"Shortness of breath, cough","Smoking cessation, inhalers","Bronchodilators, Steroids",Lifelong,As needed/daily
+371,Cirrhosis,"Fatigue, jaundice, swelling","Lifestyle changes, medication","Diuretics, Lactulose",Long-term,Daily
+372,Cleft Lip/Palate,"Facial deformity, feeding difficulties","Surgery, speech therapy",None,Surgical + follow-up,Not applicable
+373,Clostridium Difficile Infection,"Severe diarrhea, abdominal pain",Antibiotics,"Vancomycin, Fidaxomicin",10–14 days,10–14 days
+374,Cluster Headache,"Severe unilateral headache, eye tearing","Oxygen therapy, medications","Sumatriptan, Verapamil",As needed,"Daily (Verapamil), PRN (Sumatriptan)"
+375,Coeliac Disease,"Diarrhea, bloating",Gluten-free diet,None,Lifelong,Not applicable
+376,Cockayne Syndrome,"Growth failure, photosensitivity",Symptom management,None,Lifelong,Not applicable
+377,Colitis,"Abdominal pain, diarrhea",Anti-inflammatory drugs,"Mesalamine, Corticosteroids",Variable (weeks–months),4–8 weeks
+378,Colon Cancer,"Blood in stool, weight loss","Surgery, chemotherapy","5-FU, Oxaliplatin",4–6 months,Per chemo cycle
+379,Common Cold,"Runny nose, sore throat",Supportive care,"Decongestants, analgesics",5–7 days,3–5 days
+380,Complex Regional Pain Syndrome,"Chronic pain, swelling","Physical therapy, medications","NSAIDs, Corticosteroids",Months to years,Varies
+381,Conjunctivitis (Pink Eye),"Red eyes, discharge","Antibiotics, antihistamines","Tobramycin, Olopatadine",5–7 days,3–5 days
+382,Coronary Artery Disease,"Chest pain, shortness of breath","Lifestyle changes, medications","Statins, Beta blockers",Lifelong,Daily
+383,Costochondritis,Chest pain,NSAIDs,"Ibuprofen, Naproxen",1–2 weeks,5–7 days
+384,Crohn’s Disease,"Abdominal pain, diarrhea",Immunosuppressants,"Azathioprine, Infliximab",Long-term,Weekly/monthly
+385,Cushing’s Syndrome,"Weight gain, hypertension","Surgery, medications","Ketoconazole, Metyrapone",Months,Daily
+386,Cyclothymic Disorder,"Mood swings, mild depression/hypomania","Therapy, medications","Mood stabilizers (e.g., Lithium)",Long-term,Daily
+387,Cytomegalovirus Infection,"Fever, fatigue",Antivirals,"Ganciclovir, Valganciclovir",14–21 days,2–3 weeks
+388,Dandruff,"Flaking scalp, itching",Medicated shampoos,Ketoconazole shampoo,As needed,2–3x/week
+389,Dehydration,"Thirst, dizziness",Rehydration,Oral rehydration salts,1–2 days,Until symptoms resolve
+390,Dementia,"Memory loss, confusion",Supportive care,"Donepezil, Memantine",Long-term,Daily
+391,Dengue Fever,"High fever, joint pain",Supportive care,None,1–2 weeks,Not applicable
+392,Depression,"Persistent sadness, loss of interest","Therapy, medications","SSRIs, SNRIs",Months to years,Daily
+393,Dermatitis,"Itchy rash, redness",Topical steroids,"Hydrocortisone, Betamethasone",1–2 weeks,5–7 days
+394,Diabetes Mellitus Type 1,"Frequent urination, thirst",Insulin therapy,Insulin,Lifelong,Daily (2–4 injections)
+395,Diabetes Mellitus Type 2,"Frequent urination, thirst","Lifestyle, oral meds","Metformin, Sulfonylureas",Lifelong,Daily
+396,Diabetic Retinopathy,"Vision loss, floaters","Laser therapy, injections","Anti-VEGF drugs (e.g., Ranibizumab)",Months to years,Monthly injection
+397,Diarrhea,Frequent loose stools,Rehydration,ORS (Oral Rehydration Salts),1–3 days,Until hydration achieved
+398,Diffuse Large B-Cell Lymphoma,"Swollen lymph nodes, fever","Chemotherapy, radiation",R-CHOP regimen,6 months (avg),Every 21 days (cycle)
+399,Diptheria,"Sore throat, fever","Antitoxin, antibiotics","Erythromycin, Penicillin",10–14 days,10–14 days
+400,Discoid Lupus Erythematosus,"Skin rash, scarring",Topical steroids,Corticosteroids,Weeks to months,Daily application
+401,Diverticulitis,"Abdominal pain, fever","Antibiotics, surgery","Ciprofloxacin, Metronidazole",1–2 weeks,7–10 days
+402,Down Syndrome,"Intellectual disability, facial features",Supportive therapy,None,Lifelong,Not applicable
+403,Drug-Induced Liver Injury,"Jaundice, fatigue",Stop offending drug,None,Until recovery,Not applicable
+404,Duchenne Muscular Dystrophy,Muscle weakness,"Physical therapy, steroids",Prednisone,Long-term,Daily
+405,Duodenal Ulcer,"Abdominal pain, nausea","Antacids, antibiotics","Omeprazole, Amoxicillin",2–4 weeks,10–14 days
+406,Dupuytren’s Contracture,Finger contracture,"Surgery, needle aponeurotomy",None,Single procedure,Not applicable
+407,Dysentery,Diarrhea with blood,Antibiotics,Ciprofloxacin,3–5 days,3–5 days
+408,Dyslexia,Reading difficulties,Educational interventions,None,Ongoing,Not applicable
+409,Dyspepsia,"Indigestion, bloating","Lifestyle changes, meds","Antacids, Ranitidine",1–2 weeks,5–7 days
+410,Eczema,"Itchy, inflamed skin","Moisturizers, steroids",Hydrocortisone cream,1–2 weeks,5–7 days
+411,Edema,Swelling from fluid retention,Treat cause,"Furosemide, Spironolactone",Depends on cause,Daily
+412,Ehlers-Danlos Syndrome,"Hyperflexible joints, fragile skin",Symptom management,None,Lifelong,Not applicable
+413,Ehrlichiosis,"Fever, headache",Antibiotics,Doxycycline,7–14 days,7–14 days
+414,Emphysema,Shortness of breath,"Oxygen therapy, smoking cessation","Bronchodilators, steroids",Lifelong,Daily/as needed
+415,Endometriosis,"Pelvic pain, heavy periods","Hormonal therapy, surgery","NSAIDs, Oral contraceptives",Months to years,Daily
+416,Enteritis,"Diarrhea, abdominal pain","Hydration, antibiotics",Ciprofloxacin,5–7 days,5–7 days
+417,Epidermolysis Bullosa,"Fragile skin, blistering",Wound care,None,Lifelong,Not applicable
+418,Epilepsy,Seizures,Antiepileptic drugs,"Valproate, Carbamazepine",Long-term,Daily
+419,Erectile Dysfunction,Inability to maintain erection,"Lifestyle, medications","Sildenafil, Tadalafil",As needed,1 tablet before activity
+420,Esophageal Cancer,"Swallowing issues, weight loss","Surgery, chemotherapy",Cisplatin,Several months,Weekly cycles
+421,Esophageal Varices,"Vomiting blood, pain","Endoscopy, meds",Propranolol,Lifelong (if chronic),Daily
+422,Essential Tremor,"Shaking hands, head tremors","Beta blockers, therapy",Propranolol,Long-term,Daily
+423,Exophthalmos,Bulging eyes,Treat underlying cause,Prednisone,Weeks to months,Daily
+424,Fatty Liver Disease,"Fatigue, discomfort",Lifestyle changes,None,Months to years,Not applicable
+425,Fibromyalgia,"Pain, fatigue","Physical therapy, meds","Pregabalin, Duloxetine",Long-term,Daily
+426,Fibrosis,Tissue scarring,Treat underlying cause,None,Depends on cause,Not applicable
+427,Fungal Nail Infection,"Discolored, thick nails",Antifungal meds,Terbinafine,6–12 weeks,Daily
+428,Gallstones,"Abdominal pain, nausea",Surgery,None,One-time surgical,Not applicable
+429,Gastritis,"Stomach pain, nausea","Antacids, antibiotics",Omeprazole,2–4 weeks,Daily
+430,Gastroenteritis,"Diarrhea, vomiting",Hydration,None,1–3 days,Not applicable
+431,GERD,"Heartburn, regurgitation","Lifestyle, medications","Omeprazole, Ranitidine",4–6 weeks,Daily
+432,Genital Herpes,"Painful sores, itching",Antiviral therapy,"Acyclovir, Valacyclovir",7–10 days (acute),Daily/suppressive
+433,Giant Cell Arteritis,"Headache, vision problems",Steroids,Prednisone,Months,Daily
+434,Gingivitis,"Gum bleeding, swelling",Oral hygiene,None,Ongoing,Not applicable
+435,Glaucoma,"Vision loss, eye pain","Eye drops, surgery","Timolol, Latanoprost",Lifelong,Daily
+436,Glioblastoma,"Headache, neuro deficits","Surgery, chemotherapy",Temozolomide,6 months (typical),Daily during cycle
+437,Goiter,Neck swelling,"Iodine supplements, surgery",None,Weeks to months,Not applicable
+438,Gonorrhea,"Painful urination, discharge",Antibiotics,Ceftriaxone,Single dose,Single injection
+439,Gout,"Joint pain, swelling",Anti-inflammatory drugs,"NSAIDs, Colchicine",5–7 days (acute),3–7 days
+440,Graves’ Disease,"Weight loss, heat intolerance","Antithyroid drugs, surgery","Methimazole, Propylthiouracil",Months to years,Daily
+441,Guillain-Barré Syndrome,"Muscle weakness, paralysis",Immunotherapy,"IVIG, Plasmapheresis",5–10 days (IVIG),Daily
+442,Hair Loss (Alopecia),Hair thinning or bald patches,"Steroids, topical therapy","Minoxidil, Corticosteroids",Months to years,Daily application
+443,"Hand, Foot, and Mouth Disease","Fever, sores, rash",Supportive care,None,7–10 days,Not applicable
+444,Hashimoto’s Thyroiditis,"Fatigue, weight gain",Thyroid hormone replacement,Levothyroxine,Lifelong,Daily
+445,Hemophilia,Excessive bleeding,Clotting factor replacement,Factor VIII or IX,As needed,Based on bleeding events
+446,Hemorrhoids,"Pain, swelling near anus","Lifestyle, surgery",Hydrocortisone cream,1–2 weeks,Daily
+447,Hepatitis A,"Jaundice, fatigue",Supportive care,None,1–2 weeks,Not applicable
+448,Hepatitis B,"Fatigue, jaundice",Antiviral therapy,"Tenofovir, Entecavir",Months to years,Daily
+449,Hepatitis C,"Often asymptomatic, fatigue",Antiviral therapy,"Sofosbuvir, Ledipasvir",8–12 weeks,Daily
+450,Herpes Simplex Virus,Painful blisters,Antiviral therapy,Acyclovir,7–10 days,Daily
+451,Hidradenitis Suppurativa,"Painful lumps, abscesses","Antibiotics, surgery","Clindamycin, Doxycycline",Weeks to months,4–6 weeks
+452,Hirschsprung’s Disease,"Severe constipation, abdominal swelling",Surgery,None,One-time surgical,Not applicable
+453,Histoplasmosis,"Fever, cough",Antifungal therapy,Itraconazole,6–12 weeks,Daily
+454,Hodgkin’s Lymphoma,"Swollen lymph nodes, fever","Chemotherapy, radiation",ABVD regimen,Several months,Per chemo cycle
+455,HPV Infection,"Genital warts, asymptomatic","Cryotherapy, topical treatments","Imiquimod, Podophyllotoxin",Weeks to months,Daily application
+456,Huntington’s Disease,"Movement disorders, cognitive decline",Symptom management,Tetrabenazine,Lifelong,Daily
+457,Hydrocephalus,"Head enlargement, developmental delays",Surgery (shunt placement),None,One-time surgical,Not applicable
+458,Hyperthyroidism,"Weight loss, heat intolerance","Antithyroid meds, surgery",Methimazole,Months to years,Daily
+459,Hypothyroidism,"Fatigue, weight gain",Thyroid hormone replacement,Levothyroxine,Lifelong,Daily
+460,Influenza,"Fever, cough, body aches","Supportive care, antivirals",Oseltamivir,5–7 days,Twice daily
+461,Interstitial Lung Disease,"Shortness of breath, dry cough","Steroids, antifibrotics","Pirfenidone, Nintedanib",Long-term,Daily
+462,Iron Deficiency Anemia,"Fatigue, pallor",Iron supplements,Ferrous sulfate,3–6 months,Daily
+463,Irritable Bowel Syndrome,"Abdominal pain, altered bowel habits","Diet changes, medications",Antispasmodics,Weeks to months,As needed
+464,Kawasaki Disease,"Fever, rash, swollen lymph nodes",IVIG therapy,Intravenous immunoglobulin,1–2 days,Single infusion
+465,Kidney Stones,"Severe flank pain, blood in urine","Pain management, surgery",NSAIDs,Few days,3–5 days
+466,Klinefelter Syndrome,"Small testes, infertility",Hormone replacement,Testosterone,Lifelong,Weekly/monthly injection
+467,Korsakoff Syndrome,"Memory loss, confabulation",Thiamine supplementation,Thiamine,Weeks to months,Daily
+468,Lactose Intolerance,"Bloating, diarrhea after dairy intake",Dietary avoidance,Lactase supplements,Ongoing,With meals
+469,Laryngitis,"Hoarseness, sore throat","Voice rest, hydration",None,3–7 days,Not applicable
+470,Lassa Fever,"Fever, hemorrhage",Supportive care,Ribavirin,10–14 days,Daily
+471,Lichen Planus,"Purplish, itchy rash",Topical steroids,Corticosteroids,2–6 weeks,Daily
+472,Liddle Syndrome,High blood pressure,Potassium-sparing diuretics,Amiloride,Lifelong,Daily
+473,Limb-Girdle Muscular Dystrophy,Muscle weakness (hips/shoulders),Physical therapy,None,Lifelong,Not applicable
+474,Lipoma,"Soft, painless lump",Surgical removal,None,One-time surgical,Not applicable
+475,Listeriosis,"Fever, muscle aches",Antibiotics,Ampicillin,2–3 weeks,Daily
+476,Lou Gehrig’s Disease (ALS),"Muscle weakness, twitching",Supportive care,Riluzole,Lifelong,Daily
+477,Lung Cancer,"Persistent cough, weight loss","Surgery, chemotherapy","Cisplatin, Paclitaxel",Several months,Per chemo cycle
+478,Lyme Disease,"Rash, joint pain",Antibiotics,Doxycycline,2–4 weeks,Daily
+479,Lymphoma,"Swollen lymph nodes, fever","Chemotherapy, radiation",CHOP regimen,Several months,Per chemo cycle
+480,Lymphatic Filariasis,"Limb swelling, fever",Antiparasitic drugs,"Diethylcarbamazine, Albendazole",2–3 weeks,Daily
+481,Macular Degeneration,Loss of central vision,Anti-VEGF injections,"Ranibizumab, Aflibercept",Monthly,Monthly injection
+482,Malaria,"Fever, chills, sweating",Antimalarial drugs,"Artemisinin, Chloroquine",3–7 days,Daily
+483,Marfan Syndrome,"Tall stature, heart problems","Beta blockers, surgery",Propranolol,Lifelong,Daily
+484,Mastitis,"Breast pain, redness",Antibiotics,"Dicloxacillin, Cephalexin",7–10 days,Daily
+485,Measles,"Rash, fever, cough",Supportive care,None,7–10 days,Not applicable
+486,Melanoma,"Dark mole, skin lesion",Surgical removal,None,One-time surgical,Not applicable
+487,Meniere’s Disease,"Vertigo, hearing loss","Diet, medications",Betahistine,Long-term,Daily
+488,Meningitis,"Fever, stiff neck","Antibiotics, antivirals","Ceftriaxone, Acyclovir",7–14 days,Daily/IV
+489,Menopause,"Hot flashes, mood swings",Hormone therapy,Estrogen,Months to years,Daily/Patch
+490,Migraine,"Severe headache, nausea","Pain relief, preventive meds","Triptans, Beta blockers",As needed/preventive,Daily/as needed
+491,Multiple Myeloma,"Bone pain, anemia","Chemotherapy, steroids","Bortezomib, Lenalidomide",Months,Per chemo protocol
+492,Multiple Sclerosis,"Numbness, weakness",Immunomodulatory drugs,"Interferons, Glatiramer acetate",Lifelong,Weekly/Daily
+493,Mumps,"Swollen salivary glands, fever",Supportive care,None,7–10 days,Not applicable
+494,Muscle Cramps,Sudden muscle pain,"Stretching, hydration",Electrolytes,Minutes to days,As needed
+495,Myasthenia Gravis,"Muscle weakness, drooping eyelids","Immunosuppressants, therapy",Pyridostigmine,Long-term,Daily
+496,Myocardial Infarction,"Chest pain, shortness of breath","Emergency care, medications","Aspirin, Nitroglycerin",Acute + chronic care,Single dose + daily
+497,Myopia (Nearsightedness),Blurred distance vision,"Glasses, surgery",None,Permanent correction,Not applicable
+498,Narcolepsy,Excessive daytime sleepiness,Medications,"Modafinil, Sodium oxybate",Lifelong,Daily
+499,Necrotizing Fasciitis,"Severe pain, skin necrosis","Surgery, antibiotics","Penicillin, Clindamycin",2–4 weeks,IV/Oral daily
+500,Neonatal Jaundice,Yellowing of skin and eyes,Phototherapy,None,1–2 days,Not applicable
+501,Neuroblastoma,"Abdominal mass, bone pain","Chemotherapy, surgery","Vincristine, Cyclophosphamide",Several months,Per chemo protocol
+502,Neuropathy,"Numbness, tingling",Treat underlying cause,"Gabapentin, Pregabalin",Long-term,Daily
+503,Niemann-Pick Disease,"Enlarged liver/spleen, developmental delay",Supportive care,None,Lifelong,Not applicable
+504,Night Blindness,Poor vision in low light,Vitamin A supplementation,Vitamin A,Weeks to months,Daily
+505,Non-Hodgkin’s Lymphoma,"Swollen lymph nodes, fever","Chemotherapy, radiation",CHOP regimen,Several months,Per chemo cycle
+506,Non-Alcoholic Fatty Liver Disease,"Fatigue, abdominal discomfort",Lifestyle changes,None,Months to years,Not applicable
+507,Norovirus Infection,"Vomiting, diarrhea",Hydration,None,2–3 days,Not applicable
+508,Obesity,"Excess weight, fatigue","Diet, exercise, surgery",Orlistat,Long-term,Daily
+509,Obstructive Sleep Apnea,"Loud snoring, daytime sleepiness",CPAP machine,None,Lifelong,Not applicable
+510,Octopus Syndrome,Muscle spasms (rare disorder),Symptomatic treatment,Muscle relaxants,As needed,As prescribed
+511,Ocular Melanoma,"Vision changes, dark spot on iris","Surgery, radiation",None,Several weeks,Not applicable
+512,Oligospermia,Low sperm count,Treat underlying cause,Hormonal therapy,Months,Daily/As prescribed
+513,Onychomycosis,"Thickened, discolored nails",Antifungal medication,Terbinafine,6–12 weeks,Daily
+514,Opioid Use Disorder,"Cravings, withdrawal symptoms","Therapy, medication","Methadone, Buprenorphine",Long-term,Daily
+515,Oral Cancer,"Mouth sores, persistent pain","Surgery, chemotherapy",Cisplatin,Months,Per chemo cycle
+516,Osteoarthritis,"Joint pain, stiffness","Physical therapy, pain relief","NSAIDs, Acetaminophen",Lifelong,Daily/as needed
+517,Osteomyelitis,"Bone pain, fever","Antibiotics, surgery",Vancomycin,4–6 weeks,IV/Oral daily
+518,Osteoporosis,"Fragile bones, fractures","Calcium, vitamin D, lifestyle",Bisphosphonates,Long-term,Weekly/Monthly
+519,Otitis Media,"Ear pain, fever",Antibiotics,Amoxicillin,5–7 days,Daily
+520,Ovarian Cancer,"Abdominal bloating, pelvic pain","Surgery, chemotherapy","Carboplatin, Paclitaxel",Several months,Per chemo protocol
+521,Panic Disorder,"Sudden panic attacks, palpitations","Therapy, medications","SSRIs, Benzodiazepines",Months to years,Daily
+522,Parkinson’s Disease,"Tremors, slow movement",Dopamine replacement,Levodopa-Carbidopa,Lifelong,Daily
+523,Pelvic Inflammatory Disease (PID),"Pelvic pain, fever",Antibiotics,"Doxycycline, Metronidazole",10–14 days,Twice daily
+524,Pemphigus Vulgaris,Blistering skin lesions,Immunosuppressants,"Prednisone, Rituximab",Months to years,Daily/IV
+525,Peptic Ulcer Disease,"Abdominal pain, nausea","PPIs, antibiotics","Omeprazole, Amoxicillin",2–4 weeks,Daily
+526,Peripheral Artery Disease,"Leg pain, numbness","Lifestyle changes, surgery",Antiplatelets,Long-term,Daily
+527,Pertussis (Whooping Cough),"Severe cough, vomiting",Antibiotics,Azithromycin,5 days,Once daily
+528,Pheochromocytoma,"High BP, headaches",Surgery,None,One-time surgical,Not applicable
+529,Phenylketonuria,"Intellectual disability, seizures",Dietary management,None,Lifelong,Not applicable
+530,Phlebitis,"Redness, swelling along veins",Anti-inflammatories,NSAIDs,1–2 weeks,Daily
+531,Phosphorus Deficiency,"Weak bones, muscle weakness",Supplements,Phosphorus supplements,Weeks to months,Daily
+532,Pityriasis Rosea,Rash with herald patch,Supportive care,Antihistamines,4–8 weeks,As needed
+533,Plantar Fasciitis,Heel pain,"Physical therapy, orthotics",NSAIDs,Weeks to months,As needed
+534,Plasmodium Vivax Malaria,"Fever, chills",Antimalarial drugs,Chloroquine,3 days,Daily
+535,Pneumonia,"Fever, cough, chest pain","Antibiotics, antivirals","Amoxicillin, Oseltamivir",5–7 days,Daily
+536,Pneumothorax,"Sudden chest pain, shortness of breath",Chest tube drainage,None,Few days,Not applicable
+537,Polio,"Muscle weakness, paralysis",Supportive care,None,Long-term,Not applicable
+538,Polycystic Kidney Disease,"High BP, kidney failure",BP control,ACE inhibitors,Lifelong,Daily
+539,Polycystic Ovary Syndrome (PCOS),"Irregular periods, excess hair",Hormonal therapy,"Metformin, Oral contraceptives",Months to years,Daily
+540,Polycythemia Vera,"Headache, dizziness","Phlebotomy, medication",Hydroxyurea,Lifelong,Daily
+541,Polymyalgia Rheumatica,"Muscle pain, stiffness",Corticosteroids,Prednisone,1–2 years,Daily
+542,Pompe Disease,"Muscle weakness, respiratory issues",Enzyme replacement,Alglucosidase alfa,Lifelong,IV every 2 weeks
+543,Post-Traumatic Stress Disorder,"Flashbacks, anxiety","Therapy, medications",SSRIs,Months to years,Daily
+544,Pre-eclampsia,"High BP, proteinuria",Delivery of baby,Magnesium sulfate,Acute management,IV for 24–48 hrs
+545,Primary Biliary Cholangitis,"Fatigue, itching",Ursodeoxycholic acid,Ursodiol,Lifelong,Daily
+546,Primary Hyperparathyroidism,"Bone pain, kidney stones",Surgery,None,One-time surgical,Not applicable
+547,Primary Sclerosing Cholangitis,"Jaundice, itching",Liver transplant in severe cases,None,Varies,Not applicable
+548,Prion Disease,"Rapid dementia, motor problems",Supportive care,None,Progressive/lifelong,Not applicable
+549,Prostate Cancer,"Difficulty urinating, pelvic pain","Surgery, radiation, hormone therapy","Leuprolide, Bicalutamide",Months to years,Monthly injection/Daily
+550,Psoriasis,"Scaly, red patches on skin","Topical treatments, phototherapy","Corticosteroids, Vitamin D analogs",Chronic,Daily
+551,Pulmonary Embolism,"Sudden shortness of breath, chest pain",Anticoagulants,"Heparin, Warfarin",3–6 months,Daily
+552,Pulmonary Fibrosis,"Progressive shortness of breath, dry cough","Antifibrotics, oxygen therapy","Pirfenidone, Nintedanib",Lifelong,Daily
+553,Rabies,"Fever, agitation, hydrophobia",Post-exposure prophylaxis,Rabies vaccine,Over 28 days (4 doses),Scheduled
+554,Raynaud’s Disease,Cold fingers/toes turning white/blue,"Lifestyle changes, medication",Calcium channel blockers,Long-term,Daily
+555,Reactive Arthritis,"Joint pain, eye inflammation","NSAIDs, antibiotics",NSAIDs,Weeks to months,Daily
+556,Rectal Prolapse,Protrusion of rectum outside anus,Surgery,None,One-time surgical,Not applicable
+557,Renal Failure,"Decreased urine output, swelling","Dialysis, transplant",None,Lifelong,Not applicable
+558,Rheumatoid Arthritis,"Joint pain, swelling, stiffness",Immunosuppressants,"Methotrexate, Hydroxychloroquine",Lifelong,Weekly/Daily
+559,Rickets,"Bone pain, skeletal deformities",Supplements,Vitamin D,6–12 weeks,Daily
+560,Rocky Mountain Spotted Fever,"Fever, rash, headache",Antibiotics,Doxycycline,7–10 days,Twice daily
+561,Rotavirus Infection,"Severe diarrhea, vomiting",Hydration,None,2–5 days,Not applicable
+562,Rubella,"Rash, fever",Supportive care,None,5–7 days,Not applicable
+563,Salmonellosis,"Diarrhea, fever","Hydration, antibiotics",Ciprofloxacin,5–7 days,Twice daily
+564,Sarcoidosis,"Lung granulomas, fatigue",Steroids,Prednisone,Several months,Daily
+565,Scabies,"Intense itching, rash",Topical scabicides,Permethrin cream,1–2 applications,Once per week
+566,Scarlet Fever,"Rash, fever, sore throat",Antibiotics,Penicillin,10 days,Twice daily
+567,Schizophrenia,"Hallucinations, delusions",Antipsychotics,"Risperidone, Olanzapine",Lifelong,Daily
+568,Scleroderma,"Skin thickening, Raynaud’s phenomenon",Immunosuppressants,"Methotrexate, Cyclophosphamide",Long-term,Weekly/IV
+569,Scoliosis,Abnormal curvature of spine,"Bracing, surgery",None,Months to years,Not applicable
+570,Seasonal Affective Disorder,Depression in winter,"Light therapy, medications",SSRIs,3–4 months (seasonal),Daily
+571,Sepsis,"Fever, rapid heartbeat","Antibiotics, supportive care",Broad-spectrum antibiotics,Acute (7–14 days),IV
+572,Shingles,Painful rash along nerve,Antivirals,Acyclovir,7–10 days,3–5 times daily
+573,Sickle Cell Anemia,"Anemia, pain crises","Pain management, transfusions",Hydroxyurea,Lifelong,Daily
+574,Sinusitis,"Nasal congestion, facial pain","Decongestants, antibiotics",Amoxicillin,7–10 days,Daily
+575,Skin Cancer,New or changing skin lesions,"Surgery, chemotherapy",None,Weeks to months,Not applicable
+576,Sleep Apnea,"Loud snoring, daytime fatigue",CPAP therapy,None,Lifelong,Not applicable
+577,Smallpox,"Fever, rash, pustules",Vaccination (preventive),None,Not needed (eradicated),Not applicable
+578,Spina Bifida,"Spine malformation, neurological issues","Surgery, physical therapy",None,Lifelong,Not applicable
+579,Spinocerebellar Ataxia,"Coordination problems, speech difficulties",Symptom management,None,Lifelong,Not applicable
+580,Spinal Muscular Atrophy,"Muscle weakness, respiratory issues",Supportive care,Nusinersen,Lifelong,Intrathecal (4–6 monthly)
+581,Spinal Stenosis,"Back pain, numbness, weakness","Physical therapy, surgery",NSAIDs,Weeks to months,As needed
+582,Splenomegaly,"Abdominal pain, fullness",Treat underlying cause,None,Varies,Not applicable
+583,Sporotrichosis,"Skin ulcers, nodules",Antifungal therapy,Itraconazole,3–6 months,Daily
+584,Staphylococcal Infection,"Skin boils, fever",Antibiotics,"Dicloxacillin, Vancomycin",7–14 days,Daily/IV
+585,Status Epilepticus,Prolonged seizures,"Emergency care, anticonvulsants","Diazepam, Phenytoin",Emergency,IV
+586,Steatosis (Fatty Liver),"Often asymptomatic, fatigue",Lifestyle changes,None,Long-term,Not applicable
+587,Stevens-Johnson Syndrome,"Skin rash, blistering","Hospitalization, supportive care",None,Weeks,Not applicable
+588,Stomach Cancer,"Abdominal pain, weight loss","Surgery, chemotherapy",Cisplatin,Months,Per chemo cycle
+589,Strep Throat,"Sore throat, fever",Antibiotics,Penicillin,10 days,Twice daily
+590,Stroke,"Sudden weakness, speech difficulty",Emergency care,Thrombolytics,Acute (hours–days),One-time IV
+591,Subarachnoid Hemorrhage,"Sudden headache, loss of consciousness","Surgery, supportive care",None,Weeks,Not applicable
+592,Sudden Infant Death Syndrome (SIDS),Sudden infant death,"Prevention, monitoring",None,Preventive,Not applicable
+593,Sunburn,"Redness, pain, blistering","Cooling, pain relief",NSAIDs,2–5 days,As needed
+594,Syphilis,"Sores, rash, neurological symptoms",Antibiotics,Penicillin,Single dose to 14 days,As per stage
+595,Systemic Lupus Erythematosus (SLE),"Joint pain, rash, fatigue",Immunosuppressants,"Hydroxychloroquine, Steroids",Lifelong,Daily
+596,Tetanus,"Muscle stiffness, spasms","Antitoxin, supportive care",Tetanus vaccine,Immediate and preventive,One-time + booster
+597,Thalassemia,"Anemia, fatigue",Blood transfusions,None,Lifelong,Not applicable
+598,Thyroid Cancer,"Neck lump, voice changes","Surgery, radioactive iodine",None,Weeks–months,Not applicable
+599,Thyroiditis,"Neck pain, swelling",Anti-inflammatory drugs,NSAIDs,1–2 weeks,As needed
+600,Tinea Versicolor,Discolored patches on skin,Antifungal creams,"Selenium sulfide, Ketoconazole",2–4 weeks,Daily
+601,Tonsillitis,"Sore throat, fever","Antibiotics, supportive care",Amoxicillin,7–10 days,Twice daily
+602,Toxic Shock Syndrome,"High fever, rash, low blood pressure","Antibiotics, supportive care","Clindamycin, Vancomycin",10–14 days,IV/daily
+603,Toxoplasmosis,"Flu-like symptoms, swollen lymph nodes",Antibiotics,"Pyrimethamine, Sulfadiazine",4–6 weeks,Daily
+604,Tracheitis,"Cough, fever, difficulty breathing",Antibiotics,"Amoxicillin, Ceftriaxone",7–10 days,Twice daily/IV
+605,Trichomoniasis,"Vaginal discharge, itching",Antibiotics,Metronidazole,Single dose or 7 days,Single dose/Twice daily
+606,Trigeminal Neuralgia,Severe facial pain,"Medication, surgery","Carbamazepine, Gabapentin",Long-term,Daily
+607,Tuberculosis,"Chronic cough, weight loss, night sweats",Long-term antibiotics,"Isoniazid, Rifampin",6–9 months,Daily
+608,Tularemia,"Ulcers, fever, swollen lymph nodes",Antibiotics,"Streptomycin, Gentamicin",10–21 days,IV or IM
+609,Turner Syndrome,"Short stature, delayed puberty",Hormone therapy,Growth hormone,Years (childhood),Daily
+610,Ulcerative Colitis,"Abdominal pain, bloody diarrhea",Anti-inflammatory drugs,"Mesalamine, Prednisone",Lifelong,Daily
+611,Ulnar Nerve Entrapment,Numbness in fingers,"Physical therapy, surgery",NSAIDs,Weeks–months,As needed
+612,Urinary Tract Infection,Painful urination,Antibiotics,"Nitrofurantoin, Ciprofloxacin",3–7 days,Twice daily
+613,Uterine Fibroids,"Heavy periods, pelvic pain","Surgery, medication",GnRH agonists,3–6 months,Monthly (injection)
+614,Varicella (Chickenpox),"Itchy rash, fever",Supportive care,Acyclovir,5–7 days,5 times/day
+615,Varicocele,"Scrotal swelling, pain",Surgery,None,One-time surgical,Not applicable
+616,Vasculitis,"Skin rash, fever",Immunosuppressants,"Prednisone, Cyclophosphamide",Months–years,Daily
+617,Venous Thrombosis,"Leg swelling, pain",Anticoagulants,"Heparin, Warfarin",3–6 months,Daily
+618,Viral Hepatitis B,"Fatigue, jaundice",Antiviral therapy,"Tenofovir, Entecavir",Months–years,Daily
+619,Viral Hepatitis C,"Fatigue, jaundice",Antiviral therapy,"Sofosbuvir, Ledipasvir",8–12 weeks,Daily
+620,Vitamin A Deficiency,Night blindness,Supplementation,Vitamin A,2–4 weeks,Weekly/single dose
+621,Vitamin B12 Deficiency,"Fatigue, nerve issues",Supplementation,Cyanocobalamin,Weeks–months,Weekly (injection)
+622,Vitamin D Deficiency,"Bone pain, fatigue",Supplementation,Vitamin D3,6–8 weeks,Weekly/daily
+623,Vulvovaginitis,"Vaginal itching, discharge",Antifungal/antibiotic creams,"Clotrimazole, Metronidazole",3–7 days,Twice daily
+624,Waldenström’s Macroglobulinemia,"Fatigue, bleeding",Chemotherapy,Rituximab,Months–years,IV (cycle based)
+625,Wallenberg Syndrome,"Vertigo, swallowing issues",Supportive care,None,Lifelong,Not applicable
+626,Warts,Skin lesions,"Cryotherapy, topical agents",Salicylic acid,2–3 weeks,Daily
+627,Wegener’s Granulomatosis,"Sinusitis, kidney problems",Immunosuppressants,"Cyclophosphamide, Rituximab",Months–years,Weekly/IV
+628,West Nile Virus Infection,"Fever, rash",Supportive care,None,1–2 weeks,Not applicable
+629,Whipple’s Disease,"Weight loss, diarrhea",Antibiotics,"Ceftriaxone, Trimethoprim",12 months,Daily
+630,Wilson’s Disease,"Liver, neurological symptoms",Chelation therapy,Penicillamine,Lifelong,Daily
+631,Wiskott-Aldrich Syndrome,"Eczema, low platelets",Bone marrow transplant,None,One-time transplant,Not applicable
+632,Wolff-Parkinson-White Syndrome,"Palpitations, dizziness",Ablation therapy,Antiarrhythmics,One-time treatment,As needed
+633,Xeroderma Pigmentosum,Sun sensitivity,Sun protection,None,Lifelong,Not applicable
+634,Yellow Fever,"Fever, jaundice",Supportive care,None,7–10 days,Not applicable
+635,Zika Virus Infection,"Fever, rash, joint pain",Supportive care,None,7–10 days,Not applicable
+636,Zollinger-Ellison Syndrome,"Peptic ulcers, diarrhea",Proton pump inhibitors,Omeprazole,Long-term,Daily
+637,Zoonotic Tuberculosis,"Cough, weight loss",Antibiotics,"Isoniazid, Rifampin",6–9 months,Daily
+638,Achondroplasia,"Short stature, limb abnormalities",Supportive care,None,Lifelong,Not applicable
+639,Acute Lymphoblastic Leukemia,"Fatigue, bruising",Chemotherapy,"Vincristine, Methotrexate",Years (phased),IV/oral cycles
+640,Acute Myeloid Leukemia,"Fatigue, infections",Chemo + Bone marrow transplant,"Cytarabine, Daunorubicin",Months–years,IV/oral
+641,Addison’s Disease,"Fatigue, low BP",Hormone replacement,Hydrocortisone,Lifelong,Daily
+642,Age-related Macular Degeneration,Central vision loss,Anti-VEGF injections,"Ranibizumab, Aflibercept",Ongoing,Monthly injection
+643,Alcoholic Liver Disease,"Fatigue, jaundice","Abstinence, supportive care",None,Lifelong,Not applicable
+644,Amyloidosis,"Fatigue, swelling",Chemotherapy,Melphalan,Months–years,Oral/IV
+645,Anaphylaxis,"Rapid swelling, breathing difficulty",Emergency epinephrine,Epinephrine,Emergency,Single injection
+646,Angelman Syndrome,"Developmental delay, seizures",Supportive care,None,Lifelong,Not applicable
+647,Ankylosing Spondylitis,"Back pain, stiffness","NSAIDs, physiotherapy",NSAIDs,Lifelong,As needed
+648,Antiphospholipid Syndrome,"Blood clots, miscarriages",Anticoagulants,Warfarin,Lifelong,Daily
+649,Aortic Aneurysm,Chest/back pain,Surgery,None,One-time surgical,Not applicable
+650,Aplastic Anemia,"Fatigue, infections",Immunosuppressants,Cyclosporine,Months–years,Daily
+651,Asperger Syndrome,"Social difficulties, repetitive behaviors",Behavioral therapy,None,Long-term,Not applicable
+652,Asthma,"Wheezing, breathlessness","Inhalers, corticosteroids","Albuterol, Fluticasone",Long-term,As needed/Daily
+653,Ataxia Telangiectasia,"Poor coordination, immune deficiency",Supportive care,None,Lifelong,Not applicable
+654,Atrial Fibrillation,"Palpitations, fatigue","Rate control, anticoagulants","Beta-blockers, Warfarin",Long-term,Daily
+655,Autism Spectrum Disorder,"Social, communication issues",Behavioral therapy,None,Long-term,Not applicable
+656,Autoimmune Hepatitis,"Fatigue, jaundice",Immunosuppressants,"Prednisone, Azathioprine",Months–years,Daily
+657,Bacterial Meningitis,"Headache, fever, stiff neck",Antibiotics,"Ceftriaxone, Vancomycin",7–21 days,IV daily
+658,Bell’s Palsy,Sudden facial paralysis,"Steroids, antivirals",Prednisone,7–10 days,Daily
+659,Benign Prostatic Hyperplasia,Frequent urination,"Medication, surgery","Tamsulosin, Finasteride",Long-term,Daily
+660,Bipolar Disorder,"Mood swings, depression",Mood stabilizers,"Lithium, Valproate",Long-term,Daily
+661,Bladder Cancer,"Blood in urine, pelvic pain","Surgery, chemotherapy",Cisplatin,Depends on stage,IV cycles
+662,Blepharitis,Eyelid inflammation,"Hygiene, antibiotics",Azithromycin eye drops,Weeks–months,Twice daily
+663,Botulism,"Muscle weakness, paralysis",Antitoxin,Botulinum antitoxin,One-time (emergency),Single dose
+664,Brain Tumor,"Headache, seizures","Surgery, radiation",Chemotherapy,Depends on type,IV/oral cycles
+665,Bronchiectasis,Persistent cough,"Antibiotics, physiotherapy",None,Chronic,As needed
+666,Bronchitis,"Cough, mucus",Supportive care,None,7–10 days,Not applicable
+667,Brucellosis,"Fever, joint pain",Antibiotics,"Doxycycline, Rifampin",6 weeks,Daily
+668,Bulimia Nervosa,"Binge eating, purging","Therapy, medications",SSRIs,Months–years,Daily
+669,Bursitis,"Joint pain, swelling","NSAIDs, rest",NSAIDs,1–2 weeks,As needed
+670,Candidiasis,"White patches, itching",Antifungal therapy,Fluconazole,7–14 days,Daily
+671,Carpal Tunnel Syndrome,"Hand tingling, numbness","Splints, surgery",NSAIDs,2–4 weeks,As needed
+672,Cataracts,Blurred vision,Surgery,None,One-time (surgical),Not applicable
+673,Celiac Disease,"Diarrhea, bloating",Gluten-free diet,None,Lifelong,Not applicable
+674,Cerebral Palsy,Motor impairment,Supportive care,None,Lifelong,Not applicable
+675,Cervical Cancer,"Vaginal bleeding, pain","Surgery, chemotherapy",Cisplatin,Depends on stage,IV cycles
+676,Chickenpox,"Itchy rash, fever",Supportive care,Acyclovir,5–7 days,5 times/day
+677,Chlamydia,"Genital discharge, burning",Antibiotics,"Azithromycin, Doxycycline",Single dose or 7 days,Single dose or twice/day
+678,Chronic Fatigue Syndrome,"Fatigue, memory issues",Supportive care,None,Long-term,Not applicable
+679,Chronic Kidney Disease,"Fatigue, swelling","Dialysis, transplant",None,Lifelong,Not applicable
+680,COPD,"Breathlessness, chronic cough","Inhalers, oxygen therapy","Bronchodilators, Steroids",Long-term,Daily
+681,Cirrhosis,"Jaundice, fluid retention","Treat cause, transplant",None,Lifelong,Not applicable
+682,Cluster Headache,Severe headache,"Oxygen, pain relief",Sumatriptan,As needed,Per attack
+683,Clostridium difficile Infection,"Diarrhea, cramps",Antibiotics,"Vancomycin, Metronidazole",10–14 days,Daily
+684,Coccidioidomycosis,"Fever, cough",Antifungals,"Fluconazole, Amphotericin B",Weeks–months,Daily/IV
+685,Colorectal Cancer,"Blood in stool, weight loss","Surgery, chemotherapy",5-Fluorouracil,Depends on stage,IV/oral cycles
+686,Common Cold,"Runny nose, sneezing",Supportive care,None,5–7 days,Not applicable
+687,Congestive Heart Failure,"Breathlessness, edema","Diuretics, lifestyle","Furosemide, ACE inhibitors",Lifelong,Daily
+688,Conjunctivitis,"Red eye, discharge",Antibiotics (if bacterial),Erythromycin eye drops,5–7 days,3–4 times/day
+689,Coronary Artery Disease,"Chest pain, breathlessness","Lifestyle, medications","Statins, Beta blockers",Lifelong,Daily
+690,Creutzfeldt-Jakob Disease,"Rapid dementia, muscle twitching",Supportive care,None,Lifelong,Not applicable
+691,Crohn’s Disease,"Diarrhea, abdominal pain",Anti-inflammatory meds,"Corticosteroids, Immunomodulators",Long-term,Daily
+692,Cushing’s Syndrome,"Weight gain, round face","Surgery, medications",Ketoconazole,Months,Daily
+693,Cyclothymic Disorder,Mood swings,"Therapy, mood stabilizers",Mood stabilizers,Long-term,Daily
+694,Dandruff,"Itchy scalp, flakes",Medicated shampoo,Ketoconazole shampoo,Weekly,2–3 times/week
+695,Dehydration,"Dry mouth, weakness",Oral fluids,ORS (Oral Rehydration Salts),1–3 days,As needed
+696,Dementia,"Memory loss, confusion",Supportive care,Donepezil,Long-term,Daily
+697,Dengue Fever,"Fever, rash",Supportive care,None,7–10 days,Not applicable
+698,Depression,"Low mood, sadness","Therapy, antidepressants",SSRIs,Months–years,Daily
+699,Dermatitis,"Itchy skin, rash",Topical steroids,Hydrocortisone,1–2 weeks,Twice daily
+700,Diabetes Mellitus Type 1,"Frequent urination, weight loss",Insulin therapy,Insulin,Lifelong,Daily (multiple times)
+701,Diabetes Mellitus Type 2,"Increased thirst, frequent urination","Lifestyle changes, medication","Metformin, Sulfonylureas",Lifelong,Daily
+702,Diabetic Retinopathy,"Vision loss, floaters","Laser therapy, surgery",None,As needed,Not applicable
+703,Diarrhea,Frequent loose stools,Rehydration,Oral rehydration salts,1–3 days,As needed
+704,Diphtheria,"Sore throat, thick membrane on tonsils","Antitoxin, antibiotics","Erythromycin, Penicillin",14 days,Daily
+705,Discoid Lupus Erythematosus,"Red, scaly skin lesions","Steroids, immunosuppressants",Topical corticosteroids,Weeks–months,1–2 times/day
+706,Diverticulitis,"Abdominal pain, fever","Antibiotics, diet changes",Ciprofloxacin,7–10 days,Daily
+707,Down Syndrome,"Intellectual disability, facial features",Supportive care,None,Lifelong,Not applicable
+708,Duchenne Muscular Dystrophy,"Muscle weakness, walking difficulty","Physical therapy, steroids",Prednisone,Lifelong,Daily
+709,Dysentery,"Bloody diarrhea, abdominal cramps",Antibiotics,Ciprofloxacin,3–5 days,Twice daily
+710,Eczema,"Itchy, inflamed skin","Moisturizers, corticosteroids","Hydrocortisone, Tacrolimus",Weeks–months,Daily or as needed
+711,Edwards Syndrome (Trisomy 18),"Developmental delay, heart defects",Supportive care,None,Lifelong,Not applicable
+712,Ehlers-Danlos Syndrome,"Hyper-flexible joints, fragile skin",Symptomatic treatment,None,Lifelong,Not applicable
+713,Encephalitis,"Fever, confusion, seizures",Antiviral drugs,Acyclovir,10–14 days,"IV, multiple times/day"
+714,Endometriosis,"Pelvic pain, heavy periods","Pain management, surgery","NSAIDs, Hormonal therapy",Months–years,Daily
+715,Epididymitis,"Scrotal pain, swelling",Antibiotics,Doxycycline,10–14 days,Twice daily
+716,Epilepsy,"Seizures, unconsciousness",Antiepileptic drugs,"Phenytoin, Valproate",Long-term,Daily
+717,Erectile Dysfunction,Difficulty maintaining erection,"Medication, therapy","Sildenafil, Tadalafil",As needed,Before intercourse
+718,Esophageal Cancer,"Difficulty swallowing, weight loss","Surgery, chemotherapy",Cisplatin,Depends on stage,IV cycles
+719,Esophagitis,"Heartburn, chest pain",Acid reducers,Proton pump inhibitors,2–8 weeks,Daily
+720,Essential Tremor,Shaking during movement,"Beta blockers, therapy",Propranolol,As needed,Daily
+721,Ewing’s Sarcoma,"Bone pain, swelling","Chemotherapy, surgery",Vincristine,Months,IV cycles
+722,Fibromyalgia,"Widespread pain, fatigue",Pain management,"Pregabalin, Duloxetine",Long-term,Daily
+723,Fibroids (Uterine),"Heavy bleeding, pelvic pressure","Surgery, medication",GnRH agonists,Months,Daily
+724,Fifth Disease (Erythema Infectiosum),"Rash on cheeks, mild fever",Supportive care,None,1–2 weeks,Not applicable
+725,Folliculitis,"Red bumps, sores","Antibiotics, hygiene",Mupirocin,5–10 days,Twice daily
+726,Food Poisoning,"Nausea, diarrhea, vomiting",Rehydration,None,1–3 days,Not applicable
+727,Fragile X Syndrome,"Intellectual disability, behavior issues",Supportive care,None,Lifelong,Not applicable
+728,Gallstones,"Abdominal pain, nausea",Surgery,None,One-time (surgical),Not applicable
+729,Gangrene,"Tissue death, blackened skin","Surgery, antibiotics",Broad-spectrum antibiotics,Varies,IV daily
+730,Gastritis,"Stomach pain, nausea","Antacids, PPIs",Omeprazole,2–8 weeks,Daily
+731,Gastroenteritis,"Diarrhea, vomiting",Rehydration,None,1–3 days,Not applicable
+732,GERD (Gastroesophageal Reflux Disease),"Heartburn, regurgitation","Lifestyle changes, medication",Proton pump inhibitors,Weeks–months,Daily
+733,Generalized Anxiety Disorder (GAD),"Excessive worry, restlessness","Therapy, medication",SSRIs,Months–years,Daily
+734,Glaucoma,"Vision loss, eye pressure","Eye drops, surgery","Timolol, Latanoprost",Lifelong,Daily
+735,Glioblastoma,"Headaches, deficits","Surgery, radiation",Temozolomide,Depends on case,Cyclic
+736,Gout,"Joint pain, swelling","NSAIDs, lifestyle changes",Allopurinol,Long-term,Daily
+737,Graves’ Disease,"Weight loss, bulging eyes",Antithyroid drugs,Methimazole,12–18 months,Daily
+738,Guillain-Barré Syndrome,"Weakness, paralysis",Supportive care,IVIG,5–7 days,Daily (IV)
+739,"Hand, Foot, and Mouth Disease","Fever, mouth sores, rash",Supportive care,None,5–7 days,Not applicable
+740,Hashimoto’s Thyroiditis,"Fatigue, weight gain",Hormone replacement,Levothyroxine,Lifelong,Daily
+741,Hay Fever (Allergic Rhinitis),"Sneezing, itchy eyes",Antihistamines,"Loratadine, Cetirizine",Seasonal/Chronic,Daily
+742,Headache (Tension-type),Mild-moderate head pain,Pain relievers,"Ibuprofen, Acetaminophen",As needed,As needed
+743,Hearing Loss,Difficulty hearing,Hearing aids,None,Lifelong,Not applicable
+744,Heart Attack (Myocardial Infarction),"Chest pain, breathlessness",Emergency care,"Aspirin, Nitroglycerin",Immediate,Single dose or daily
+745,Heart Valve Disease,"Shortness of breath, fatigue",Surgery,None,One-time (surgical),Not applicable
+746,Hemophilia,Excessive bleeding,Clotting factor replacement,Factor VIII or IX,Lifelong,As needed
+747,Hepatitis A,"Fever, jaundice",Supportive care,None,2–4 weeks,Not applicable
+748,Hepatitis B,"Fatigue, jaundice",Antiviral drugs,"Tenofovir, Entecavir",Months–years,Daily
+749,Hepatitis C,"Fatigue, jaundice",Antiviral drugs,Sofosbuvir,8–12 weeks,Daily
+750,Herpes Simplex Virus (HSV) Infection,Painful sores,Antiviral therapy,Acyclovir,5–10 days,3–5 times/day
+751,Herpes Zoster (Shingles),"Painful rash, blisters",Antiviral therapy,"Acyclovir, Valacyclovir",7–10 days,5–7 days
+752,Hiatal Hernia,"Heartburn, chest pain","Lifestyle changes, medication","Antacids, Proton pump inhibitors",Long-term,Daily or as needed
+753,Histoplasmosis,"Fever, cough",Antifungal therapy,Itraconazole,Weeks–months,Daily
+754,Hodgkin’s Lymphoma,"Swollen lymph nodes, fever","Chemotherapy, radiation",ABVD regimen,Months,IV cycles
+755,HIV (Human Immunodeficiency Virus),"Fever, weight loss, infections",Antiretroviral therapy (ART),ART combinations,Lifelong,Daily
+756,Huntington’s Disease,"Involuntary movements, cognitive decline",Supportive care,None,Lifelong,Not applicable
+757,Hyperthyroidism,"Weight loss, heat intolerance","Medication, surgery","Methimazole, Propylthiouracil",Months–years,Daily
+758,Hypothyroidism,"Fatigue, weight gain",Hormone replacement therapy,Levothyroxine,Lifelong,Daily
+759,Impetigo,"Red sores, crusty lesions",Antibiotics,"Mupirocin, Dicloxacillin",7–10 days,2–3 times/day
+760,Influenza (Flu),"Fever, cough, muscle aches","Supportive care, antivirals",Oseltamivir,5 days,Twice daily
+761,Insomnia,Difficulty sleeping,"Sleep hygiene, medication",Zolpidem,Short-term,Nightly as needed
+762,Interstitial Lung Disease,"Dry cough, shortness of breath","Steroids, immunosuppressants",Prednisone,Weeks–months,Daily
+763,Irritable Bowel Syndrome (IBS),"Abdominal pain, bloating","Diet changes, medication",Antispasmodics,Long-term,As needed
+764,Iron Deficiency Anemia,"Fatigue, pallor",Iron supplements,Ferrous sulfate,1–3 months,Daily
+765,Juvenile Diabetes (Type 1),"Increased thirst, frequent urination",Insulin therapy,Insulin,Lifelong,Daily
+766,Kawasaki Disease,"Fever, rash, lymph swelling",IVIG therapy,Intravenous immunoglobulin,1–2 days,Once (IV)
+767,Kidney Stones,"Severe flank pain, hematuria","Pain management, surgery",None,Few days,Not applicable
+768,Kidney Failure (Chronic),"Fatigue, swelling","Dialysis, transplant",None,Lifelong,Not applicable
+769,Kidney Infection (Pyelonephritis),"Fever, back pain",Antibiotics,Ciprofloxacin,7–14 days,Daily
+770,Lactose Intolerance,"Bloating, diarrhea after dairy",Dietary changes,Lactase supplements,Lifelong (as needed),With dairy intake
+771,Laryngitis,"Hoarseness, sore throat","Voice rest, supportive care",None,3–7 days,Not applicable
+772,Leprosy,"Skin lesions, nerve damage",Antibiotics,"Dapsone, Rifampicin",6–12 months,Daily
+773,Leukemia (Acute),"Fatigue, bruising","Chemotherapy, bone marrow transplant",Chemotherapy agents,Months–years,IV cycles
+774,Leukemia (Chronic),"Fatigue, weight loss",Targeted therapy,Imatinib,Months–years,Daily
+775,Liver Cancer,"Weight loss, abdominal pain","Surgery, chemotherapy",Sorafenib,Depends on stage,Daily (oral)
+776,Liver Cirrhosis,"Fatigue, jaundice","Treat cause, transplant",None,Lifelong,Not applicable
+777,Lupus (SLE),"Fatigue, joint pain, rash",Immunosuppressants,"Hydroxychloroquine, Steroids",Lifelong,Daily
+778,Lyme Disease,"Rash, fever, joint pain",Antibiotics,Doxycycline,10–21 days,Twice daily
+779,Malaria,"Fever, chills",Antimalarial drugs,Artemisinin-based therapies,3–7 days,Daily
+780,Malnutrition,"Weight loss, weakness",Nutritional support,Nutritional supplements,Weeks–months,Daily
+781,Meniere’s Disease,"Vertigo, hearing loss","Diet, medication",Diuretics,Long-term,Daily
+782,Melanoma,"Dark skin lesion, mole changes","Surgery, immunotherapy",None,Depends on stage,Not applicable
+783,Meningitis,"Fever, stiff neck",Antibiotics (bacterial),Ceftriaxone,7–21 days,IV daily
+784,Menopause,"Hot flashes, mood swings",Hormone therapy,Estrogen,Varies,Daily
+785,Mesothelioma,"Chest pain, breathlessness","Surgery, chemotherapy",Pemetrexed,Months,IV cycles
+786,Metabolic Syndrome,"Obesity, hypertension",Lifestyle changes,None,Lifelong,Not applicable
+787,Migraine,"Severe headache, nausea","Pain relief, preventive meds","Triptans, Beta blockers",As needed/Long-term,As needed/Daily
+788,Multiple Sclerosis,"Numbness, vision issues",Immunomodulatory therapy,Interferon beta,Long-term,Injections (weekly)
+789,Muscular Dystrophy,Muscle weakness,"Physical therapy, steroids",Prednisone,Long-term,Daily
+790,Myasthenia Gravis,"Muscle weakness, eyelid droop",Immunosuppressants,Pyridostigmine,Long-term,Daily
+791,Myocarditis,"Chest pain, fatigue",Supportive care,None,Weeks–months,Not applicable
+792,Nasopharyngeal Cancer,"Nasal blockage, bleeding","Radiation, chemotherapy",Cisplatin,Weeks–months,IV cycles
+793,Narcolepsy,Daytime sleepiness,"Medication, lifestyle changes",Modafinil,Long-term,Daily
+794,Nasal Polyps,"Nasal congestion, loss of smell","Steroids, surgery",Corticosteroids,Weeks–months,Daily (nasal)
+795,Necrotizing Fasciitis,"Severe pain, tissue death","Surgery, antibiotics",Broad-spectrum antibiotics,Emergency,IV daily
+796,Nephrotic Syndrome,"Swelling, proteinuria","Steroids, immunosuppressants",Prednisone,Weeks–months,Daily
+797,Neural Tube Defects,Brain/spine birth defects,"Surgery, supportive care",None,Surgical intervention,Not applicable
+798,Neurofibromatosis,Tumors on nerves,"Surgery, monitoring",None,Long-term,Not applicable
+799,Neuropathy,"Numbness, extremity pain",Treat underlying cause,Gabapentin,Long-term,Daily
+800,Obesity,Excess body fat,"Diet, exercise",None,Long-term,Not applicable
+801,Obsessive-Compulsive Disorder (OCD),"Repetitive thoughts, compulsive behaviors",Cognitive behavioral therapy,"SSRIs (Fluoxetine, Sertraline)",Long-term,Daily
+802,Osteoarthritis,"Joint pain, stiffness","Pain management, physical therapy",NSAIDs (Ibuprofen),Long-term,As needed
+803,Osteoporosis,"Bone fractures, loss of height","Calcium, vitamin D, bisphosphonates",Alendronate,Months–years,Weekly/Daily
+804,Otitis Media,"Ear pain, hearing loss",Antibiotics,Amoxicillin,5–10 days,Daily
+805,Pancreatitis,"Abdominal pain, nausea","Hospital care, fasting",Pain relievers,Few days,As needed
+806,Parkinson’s Disease,"Tremors, stiffness","Medication, physical therapy","Levodopa, Carbidopa",Lifelong,Daily
+807,Peptic Ulcer Disease,"Abdominal pain, bleeding","Antibiotics, acid blockers","Omeprazole, Amoxicillin",2–4 weeks,Daily
+808,Pertussis (Whooping Cough),Severe coughing fits,Antibiotics,Azithromycin,5 days,Daily
+809,Phenylketonuria (PKU),"Intellectual disability, seizures",Dietary management,Low-phenylalanine diet,Lifelong,Daily
+810,Pityriasis Rosea,"Rash, itching",Supportive care,Antihistamines,4–8 weeks,As needed
+811,Plantar Fasciitis,Heel pain,"Stretching, orthotics",NSAIDs,Weeks–months,As needed
+812,Pneumonia,"Cough, fever, chest pain",Antibiotics,"Amoxicillin, Azithromycin",7–10 days,Daily
+813,Polio,"Paralysis, muscle weakness",Supportive care,None,Long-term,Not applicable
+814,Polycystic Ovary Syndrome (PCOS),"Irregular periods, weight gain","Lifestyle changes, medication","Metformin, Oral contraceptives",Months–years,Daily
+815,Polymyalgia Rheumatica,"Muscle pain, stiffness",Corticosteroids,Prednisone,Months–years,Daily
+816,Polyps (Colon),"Often asymptomatic, bleeding",Colonoscopy removal,None,One-time,Not applicable
+817,Porphyria,"Abdominal pain, neurological symptoms","Avoid triggers, supportive care",Hemin,As needed,IV dose(s)
+818,Post-Traumatic Stress Disorder (PTSD),"Flashbacks, anxiety","Therapy, medication",SSRIs,Months–years,Daily
+819,Pre-eclampsia,"High blood pressure, swelling",Delivery of baby,Antihypertensives,Until delivery,Daily
+820,Primary Biliary Cholangitis,"Fatigue, itching",Ursodeoxycholic acid,Ursodiol,Lifelong,Daily
+821,Primary Sclerosing Cholangitis,"Fatigue, jaundice",Liver transplant,None,Long-term,Not applicable
+822,Prostate Cancer,"Difficulty urinating, pelvic pain","Surgery, radiation",Hormone therapy,Months–years,Varies
+823,Psoriasis,"Red, scaly skin patches","Topical treatments, phototherapy","Corticosteroids, Vitamin D analogs",Weeks–months,Daily
+824,Pulmonary Embolism,"Sudden shortness of breath, chest pain",Anticoagulants,"Heparin, Warfarin",Months,Daily
+825,Pulmonary Fibrosis,"Shortness of breath, dry cough","Oxygen therapy, antifibrotics",Pirfenidone,Lifelong,Daily
+826,Rabies,"Fever, confusion, paralysis",Post-exposure prophylaxis,Rabies vaccine,Series over 2–4 weeks,Injection schedule
+827,Raynaud’s Disease,"Cold fingers/toes, color changes","Avoid cold, medication",Calcium channel blockers,Long-term,Daily
+828,Rheumatoid Arthritis,"Joint pain, swelling",Immunosuppressants,Methotrexate,Lifelong,Weekly
+829,Rickets,"Bone deformities, delayed growth",Vitamin D and calcium,Vitamin D supplements,Weeks–months,Daily
+830,Rosacea,"Facial redness, pimples",Topical antibiotics,Metronidazole,Weeks–months,Daily
+831,Rubella (German Measles),"Rash, fever",Vaccination,None,Preventive,Not applicable
+832,Salmonella Infection,"Diarrhea, fever","Rehydration, antibiotics",Ciprofloxacin,3–7 days,Daily
+833,Sarcoidosis,"Fatigue, lung issues",Steroids,Prednisone,Weeks–months,Daily
+834,Scabies,"Intense itching, rash",Topical scabicides,Permethrin,Single or repeat dose,8–14 hrs topical
+835,Scleroderma,"Skin thickening, Raynaud’s phenomenon",Immunosuppressants,Methotrexate,Long-term,Weekly
+836,Scoliosis,Curved spine,"Bracing, surgery",None,Varies,Not applicable
+837,Sepsis,"Fever, rapid heart rate","Antibiotics, supportive care",Broad-spectrum antibiotics,Immediate/emergency,IV daily
+838,Shigellosis,"Diarrhea, abdominal cramps",Antibiotics,Ciprofloxacin,3–5 days,Daily
+839,Sinusitis,"Nasal congestion, facial pain","Decongestants, antibiotics",Amoxicillin,7–10 days,Daily
+840,Skin Cancer (Basal Cell Carcinoma),"Skin lesions, bleeding","Surgery, topical treatment",None,One-time,Not applicable
+841,Skin Cancer (Squamous Cell Carcinoma),Scaly skin lesions,"Surgery, radiation",None,One-time,Not applicable
+842,Sleep Apnea,"Loud snoring, daytime sleepiness","CPAP therapy, lifestyle changes",None,Lifelong,Not applicable
+843,Smallpox,"Fever, rash",Vaccination,None,Preventive,Not applicable
+844,Spina Bifida,"Neural tube defect, paralysis","Surgery, supportive care",None,Lifelong,Not applicable
+845,Spinal Muscular Atrophy,Muscle weakness,Supportive care,Nusinersen,Lifelong,As prescribed
+846,Staphylococcal Infection,"Boils, cellulitis",Antibiotics,Dicloxacillin,7–14 days,Daily
+847,Stomach Cancer,"Weight loss, abdominal pain","Surgery, chemotherapy",None,Depends on stage,Not applicable
+848,Stroke,"Sudden weakness, speech difficulties",Emergency care,Thrombolytics,Immediate,Single IV dose
+849,Syphilis,"Sores, rash",Antibiotics,Penicillin,Single or 3-dose course,IM injection
+850,Systemic Sclerosis,"Skin thickening, organ damage",Immunosuppressants,Methotrexate,Long-term,Weekly
+851,Tachycardia,Rapid heartbeat,"Medications, cardioversion",Beta blockers (Metoprolol),Short–long term,Daily
+852,Tetanus,"Muscle stiffness, spasms","Antitoxin, antibiotics","Tetanus immunoglobulin, Metronidazole",7–14 days,As prescribed
+853,Thalassemia,"Fatigue, anemia","Blood transfusions, chelation",Deferoxamine,Lifelong,As needed
+854,Thrombocytopenia,"Easy bruising, bleeding","Treat cause, platelet transfusion",None,Varies,Not applicable
+855,Thyroid Cancer,"Lump in neck, voice changes","Surgery, radioactive iodine",None,Variable,Not applicable
+856,Tinnitus,Ringing in ears,Treat underlying cause,None,Varies,Not applicable
+857,Toxoplasmosis,"Fever, swollen lymph nodes",Antibiotics,"Pyrimethamine, Sulfadiazine",4–6 weeks,Daily
+858,Trigeminal Neuralgia,Facial pain,"Medication, surgery",Carbamazepine,Long-term,Daily
+859,Tuberculosis,"Chronic cough, weight loss",Long-term antibiotics,"Isoniazid, Rifampicin",6–9 months,Daily
+860,Tularemia,"Ulcer at infection site, fever",Antibiotics,Streptomycin,10–21 days,Daily (IM)
+861,Turner Syndrome,"Short stature, infertility",Hormone therapy,Growth hormone,Years,Daily injection
+862,Ulcerative Colitis,"Diarrhea, abdominal pain",Anti-inflammatory drugs,Mesalamine,Long-term,Daily
+863,Urethritis,"Painful urination, discharge",Antibiotics,Azithromycin,1–7 days,Daily
+864,Urticaria (Hives),"Itchy, raised welts",Antihistamines,Loratadine,As needed,Daily
+865,Uterine Fibroids,"Heavy menstrual bleeding, pelvic pain","Surgery, medication",GnRH agonists,Months,Monthly injection
+866,Vaginitis,"Vaginal discharge, itching",Antibiotics or antifungals,"Metronidazole, Fluconazole",1–7 days,Daily
+867,Varicella (Chickenpox),"Rash, fever",Supportive care,Acyclovir,5–7 days,Daily
+868,Varicose Veins,"Swollen, twisted veins",Compression stockings,None,Long-term,Not applicable
+869,Vasculitis,"Fever, rash, organ damage","Steroids, immunosuppressants",Prednisone,Weeks–months,Daily
+870,Vertigo,"Dizziness, imbalance","Medication, vestibular therapy",Meclizine,As needed,As needed
+871,"Viral Hepatitis (A, B, C)","Fatigue, jaundice",Antiviral medication,"Tenofovir, Sofosbuvir",Weeks–months,Daily
+872,Vitiligo,White patches on skin,"Phototherapy, corticosteroids",Topical steroids,Weeks–months,Daily
+873,Vulvovaginal Candidiasis,"Itching, discharge",Antifungal medication,Fluconazole,1–3 days,Single/daily dose
+874,Warts,Skin growths,"Cryotherapy, topical agents",Salicylic acid,Weeks–months,Daily
+875,West Nile Virus Infection,"Fever, rash, neurological symptoms",Supportive care,None,7–10 days,Not applicable
+876,Wilson’s Disease,"Liver disease, neurological symptoms",Chelation therapy,Penicillamine,Lifelong,Daily
+877,Wolff-Parkinson-White Syndrome,"Rapid heartbeat, palpitations","Medication, ablation",Beta blockers,Varies,Daily
+878,Xerophthalmia,"Dry eyes, night blindness",Vitamin A supplementation,Vitamin A,Few days,Daily
+879,Yellow Fever,"Fever, jaundice",Supportive care,None,7–10 days,Not applicable
+880,Zika Virus Infection,"Fever, rash, joint pain",Supportive care,None,5–7 days,Not applicable
+881,Zollinger-Ellison Syndrome,"Abdominal pain, ulcers",Proton pump inhibitors,Omeprazole,Long-term,Daily
+882,Adenovirus Infection,"Cold-like symptoms, conjunctivitis",Supportive care,None,5–7 days,Not applicable
+883,Alcohol Use Disorder,"Cravings, loss of control over drinking","Counseling, medication","Disulfiram, Naltrexone",Months–years,Daily
+884,Amyloidosis,"Fatigue, weight loss",Chemotherapy,Melphalan,Varies,As prescribed
+885,Anemia of Chronic Disease,"Fatigue, pallor",Treat underlying cause,None,Varies,Not applicable
+886,Angelman Syndrome,"Developmental delay, seizures",Supportive care,None,Lifelong,Not applicable
+887,Ankylosing Spondylitis,"Back pain, stiffness","NSAIDs, physical therapy",NSAIDs,Long-term,Daily
+888,Aortic Aneurysm,"Often asymptomatic, pain",Surgery,None,One-time,Not applicable
+889,Aortic Stenosis,"Chest pain, fainting",Surgery,None,One-time,Not applicable
+890,Asperger Syndrome,"Social difficulties, repetitive behaviors",Behavioral therapy,None,Long-term,Not applicable
+891,Atopic Dermatitis (Eczema),"Itchy, inflamed skin","Moisturizers, corticosteroids",Topical steroids,Weeks–months,Daily
+892,Atrial Fibrillation,Irregular heartbeat,"Anticoagulants, rate control","Warfarin, Beta blockers",Long-term,Daily
+893,Attention Deficit Hyperactivity Disorder (ADHD),"Inattention, hyperactivity","Behavioral therapy, medication",Methylphenidate,Long-term,Daily
+894,Autism Spectrum Disorder,Social interaction difficulties,"Therapy, education",None,Lifelong,Not applicable
+895,Autoimmune Hepatitis,"Fatigue, jaundice",Immunosuppressants,Prednisone,Months–years,Daily
+896,Bacterial Vaginosis,"Vaginal discharge, odor",Antibiotics,Metronidazole,5–7 days,Daily
+897,Barrett’s Esophagus,"Heartburn, chest pain",Acid suppression,Proton pump inhibitors,Long-term,Daily
+898,Bell’s Palsy,Facial paralysis,"Steroids, supportive care",Prednisone,7–10 days,Daily
+899,Benign Prostatic Hyperplasia,Urinary difficulty,"Medication, surgery",Alpha blockers,Long-term,Daily
+900,Bipolar Disorder,"Mood swings, depression, mania",Mood stabilizers,Lithium,Long-term,Daily
+901,Blastomycosis,"Fever, cough, weight loss",Antifungal therapy,Itraconazole,Weeks–months,Daily
+902,Bladder Cancer,"Blood in urine, pain during urination","Surgery, chemotherapy",None,Varies,Not applicable
+903,Blepharitis,"Eyelid inflammation, itching","Eyelid hygiene, antibiotics",Azithromycin eye drops,Weeks,Daily
+904,Botulism,"Muscle weakness, paralysis","Antitoxin, supportive care",Botulinum antitoxin,Immediate,Single dose
+905,Bronchiolitis,"Cough, wheezing",Supportive care,None,1–2 weeks,Not applicable
+906,Bronchitis,"Cough, mucus production","Rest, fluids, sometimes antibiotics",None,1–2 weeks,Not applicable
+907,Brucellosis,"Fever, sweating, muscle pain",Antibiotics,Doxycycline + Rifampicin,6+ weeks,Daily
+908,Bullous Pemphigoid,Blistering skin rash,Corticosteroids,Prednisone,Weeks–months,Daily
+909,Burkitt Lymphoma,"Swollen lymph nodes, fever",Chemotherapy,Various,Months,As prescribed
+910,Candidiasis (Oral Thrush),"White patches in mouth, soreness",Antifungal medication,Nystatin,7–14 days,Daily
+911,Carcinoid Tumor,"Flushing, diarrhea","Surgery, somatostatin analogs",Octreotide,Varies,As prescribed
+912,Carpal Tunnel Syndrome,"Hand numbness, tingling","Splinting, surgery",None,Weeks–months,Not applicable
+913,Cataract,"Blurred vision, clouded lens",Surgery,None,One-time,Not applicable
+914,Celiac Disease,"Diarrhea, abdominal pain",Gluten-free diet,None,Lifelong,Not applicable
+915,Cellulitis,"Redness, swelling, pain",Antibiotics,Cephalexin,5–14 days,Daily
+916,Cerebral Palsy,"Motor dysfunction, muscle stiffness","Therapy, supportive care",None,Lifelong,Not applicable
+917,Cervical Cancer,"Abnormal bleeding, pelvic pain","Surgery, radiation",None,Months,Not applicable
+918,Chalazion,"Eyelid lump, swelling","Warm compresses, surgery",None,Days–weeks,Not applicable
+919,Chickenpox,"Itchy rash, fever",Supportive care,Acyclovir,5–7 days,Daily
+920,Chikungunya,"Fever, joint pain",Supportive care,None,1–2 weeks,Not applicable
+921,Chlamydia,"Painful urination, discharge",Antibiotics,Azithromycin,1–7 days,Single dose
+922,Chronic Fatigue Syndrome,"Extreme fatigue, muscle pain",Symptom management,None,Long-term,Not applicable
+923,Chronic Kidney Disease,"Fatigue, swelling","Dialysis, transplant",None,Lifelong,Not applicable
+924,Chronic Obstructive Pulmonary Disease (COPD),"Chronic cough, breathlessness","Inhalers, oxygen therapy",Bronchodilators,Long-term,Daily
+925,Cirrhosis,"Jaundice, swelling","Avoid alcohol, supportive care",None,Lifelong,Not applicable
+926,Clostridium difficile Infection,"Diarrhea, abdominal pain",Antibiotics,Vancomycin,10–14 days,Daily
+927,Cluster Headache,Severe headache attacks,"Oxygen therapy, medication",Sumatriptan,Episodic,As needed
+928,Coccidioidomycosis,"Fever, cough",Antifungal therapy,Fluconazole,Weeks–months,Daily
+929,Colorectal Cancer,"Blood in stool, weight loss","Surgery, chemotherapy",None,Months–years,Not applicable
+930,Common Cold,"Runny nose, sore throat",Supportive care,None,5–10 days,Not applicable
+931,Congestive Heart Failure,"Shortness of breath, edema","Diuretics, ACE inhibitors","Furosemide, Lisinopril",Long-term,Daily
+932,Conjunctivitis,"Red eyes, discharge",Antibiotics or antihistamines,Erythromycin eye drops,5–7 days,Daily
+933,Coronary Artery Disease,"Chest pain, shortness of breath","Lifestyle changes, medication","Aspirin, Statins",Long-term,Daily
+934,Coxsackievirus Infection,"Fever, rash, mouth sores",Supportive care,None,1–2 weeks,Not applicable
+935,Creutzfeldt-Jakob Disease,"Rapid dementia, movement problems",Supportive care,None,Terminal,Not applicable
+936,Crohn’s Disease,"Diarrhea, abdominal pain",Anti-inflammatory drugs,Infliximab,Long-term,As prescribed
+937,Cushing’s Syndrome,"Weight gain, high blood pressure","Surgery, medication",Ketoconazole,Weeks–months,Daily
+938,Cystic Fibrosis,"Lung infections, poor growth","Chest physiotherapy, antibiotics",Various antibiotics,Lifelong,As prescribed
+939,Dandruff,"Flaky scalp, itching",Medicated shampoos,Ketoconazole shampoo,Weeks–months,Regular use
+940,Dehydration,"Thirst, dizziness",Fluid replacement,Oral rehydration salts,1–3 days,As needed
+941,Dengue Fever,"Fever, rash, joint pain",Supportive care,None,5–7 days,Not applicable
+942,Depression,"Sadness, loss of interest","Therapy, medication",SSRIs (Fluoxetine),Long-term,Daily
+943,Dermatitis,"Red, itchy skin",Topical steroids,Hydrocortisone cream,Weeks,Daily
+944,Diabetes Mellitus Type 1,"Increased thirst, urination",Insulin therapy,Insulin,Lifelong,Daily
+945,Diabetes Mellitus Type 2,"Increased thirst, fatigue","Lifestyle changes, medication",Metformin,Long-term,Daily
+946,Diabetic Retinopathy,"Vision changes, blindness","Laser therapy, medication",Anti-VEGF drugs,Varies,As prescribed
+947,Diarrhea,"Loose stools, dehydration",Rehydration,Oral rehydration salts,1–3 days,As needed
+948,Diphtheria,"Sore throat, fever","Antitoxin, antibiotics",Erythromycin,10–14 days,Daily
+949,Diverticulitis,"Abdominal pain, fever","Antibiotics, surgery",Metronidazole,7–10 days,Daily
+950,Down Syndrome,"Intellectual disability, distinct facial features",Supportive care,None,Lifelong,Not applicable
+952,Drug-Induced Hepatitis,"Jaundice, abdominal pain",Stop offending drug,None,Until resolution,Not applicable
+953,Duchenne Muscular Dystrophy,"Muscle weakness, difficulty walking",Physical therapy,None,Lifelong,Not applicable
+954,Dupuytren’s Contracture,"Hand deformity, thickened skin",Surgery,None,One-time,Not applicable
+955,Eclampsia,Seizures during pregnancy,"Delivery, magnesium sulfate",Magnesium sulfate,Immediate,Short-term
+956,Ehlers-Danlos Syndrome,"Hyperflexible joints, fragile skin",Supportive care,None,Lifelong,Not applicable
+957,Electrolyte Imbalance,"Fatigue, muscle cramps",Correct imbalance,Electrolyte supplements,Days–weeks,Daily or as needed
+958,Emphysema,"Shortness of breath, chronic cough",Oxygen therapy,Bronchodilators,Lifelong,Daily
+959,Endocarditis,"Fever, heart murmur",Antibiotics,Penicillin,4–6 weeks,Daily
+960,Endometriosis,"Pelvic pain, heavy periods","Surgery, hormonal therapy","NSAIDs, contraceptives",Varies,Daily
+961,Epidermolysis Bullosa,"Fragile skin, blistering",Wound care,None,Lifelong,Not applicable
+962,Epilepsy,Seizures,Antiepileptic drugs,"Phenytoin, Valproate",Lifelong,Daily
+963,Epithelial Ovarian Cancer,"Abdominal swelling, pain","Surgery, chemotherapy",None,Months–years,As prescribed
+964,Erectile Dysfunction,Difficulty achieving or maintaining erection,"Counseling, medication",Sildenafil,As needed,As needed
+965,Esophageal Cancer,"Difficulty swallowing, weight loss","Surgery, chemotherapy",None,Months,Not applicable
+966,Esophageal Varices,"Vomiting blood, liver disease","Endoscopy, medication",Beta blockers,Long-term,Daily
+967,Essential Tremor,"Shaking hands, head tremors",Medication,Propranolol,Long-term,Daily
+968,Exocrine Pancreatic Insufficiency,"Weight loss, diarrhea",Pancreatic enzyme replacement,Pancrelipase,Lifelong,With meals
+969,Familial Hypercholesterolemia,"High cholesterol, early heart disease","Statins, lifestyle",Atorvastatin,Lifelong,Daily
+970,Fibromyalgia,"Widespread pain, fatigue","Medications, therapy",Duloxetine,Long-term,Daily
+971,Fibroids (Uterine),"Heavy bleeding, pelvic pressure","Surgery, medication",GnRH agonists,Months,Daily
+972,Food Poisoning,"Vomiting, diarrhea","Hydration, rest",None,1–3 days,Not applicable
+973,Gallstones,"Abdominal pain, nausea",Surgery,None,One-time,Not applicable
+974,Gastritis,"Stomach pain, nausea","Antacids, antibiotics",Omeprazole,2–4 weeks,Daily
+975,Gastroenteritis,"Diarrhea, vomiting","Hydration, rest",None,1–3 days,Not applicable
+976,Gastroesophageal Reflux Disease (GERD),"Heartburn, regurgitation","Lifestyle changes, medication",Omeprazole,Long-term,Daily
+977,Giant Cell Arteritis,"Headache, jaw pain",Steroids,Prednisone,Months,Daily
+978,Glaucoma,"Vision loss, eye pain","Eye drops, surgery",Timolol,Lifelong,Daily
+979,Goiter,Neck swelling,Iodine supplementation,None,Varies,Not applicable
+980,Gout,"Joint pain, swelling","NSAIDs, lifestyle",Allopurinol,Long-term,Daily
+981,Guillain-Barre Syndrome,"Muscle weakness, paralysis",Immunoglobulins,IVIG,Short-term,3–5 days
+982,Hair Loss (Alopecia),Thinning or loss of hair,Topical treatments,Minoxidil,Months–years,Daily
+983,"Hand, Foot, and Mouth Disease","Fever, sores in mouth, rash",Supportive care,None,7–10 days,Not applicable
+984,Hashimoto’s Thyroiditis,"Fatigue, weight gain",Thyroid hormone replacement,Levothyroxine,Lifelong,Daily
+985,Headache (Migraine),"Throbbing head pain, nausea","Medication, lifestyle",Sumatriptan,Episodic/preventive,As needed
+986,Head Lice,"Itching, visible lice",Topical insecticides,Permethrin,1–2 treatments,Topical
+987,Heart Attack (Myocardial Infarction),"Chest pain, shortness of breath","Emergency care, medication","Aspirin, Nitroglycerin",Immediate & long-term,As prescribed
+988,Heart Failure,"Breathlessness, fatigue","Medication, lifestyle","ACE inhibitors, Diuretics",Lifelong,Daily
+989,Hemophilia,Excessive bleeding,Clotting factor replacement,Factor VIII or IX,As needed,IV on demand
+990,Hepatitis A,"Fatigue, jaundice",Supportive care,None,2–4 weeks,Not applicable
+991,Hepatitis B,"Fatigue, jaundice",Antiviral therapy,Tenofovir,Months–years,Daily
+992,Hepatitis C,"Fatigue, jaundice",Antiviral therapy,Sofosbuvir,8–12 weeks,Daily
+993,Herpes Simplex Virus Infection,"Cold sores, genital sores",Antiviral medication,Acyclovir,5–10 days (initial),Daily or episodic
+994,Hiatal Hernia,"Heartburn, chest pain","Lifestyle changes, surgery",None,Long-term if needed,Not applicable
+995,Hirschsprung Disease,"Constipation, abdominal swelling",Surgery,None,One-time,Not applicable
+996,Hodgkin’s Lymphoma,"Swollen lymph nodes, fever","Chemotherapy, radiation",Various,Months,As prescribed
+997,Hyperthyroidism,"Weight loss, rapid heartbeat","Medication, radioactive iodine",Methimazole,Months–years,Daily
+998,Hypothyroidism,"Fatigue, weight gain",Thyroid hormone replacement,Levothyroxine,Lifelong,Daily
+999,Hypoglycemia,"Sweating, shakiness",Glucose administration,Glucose,Immediate,Single dose or as needed
+1000,Hypertension,"Often asymptomatic, headache","Lifestyle changes, medication","ACE inhibitors, Beta blockers",Lifelong,Daily
+1001,Herpes Labialis (Cold Sores),"Lip blisters, pain","Antiviral creams, avoid triggers","Acyclovir, Valacyclovir",5–7 days,"Topical/Oral, as needed"
+1002,Angular Cheilitis,Cracked mouth corners,Antifungal/antibacterial creams,"Clotrimazole, Mupirocin",7–14 days,Topical
+1003,Oral Thrush (Candidiasis),White mouth patches,Antifungal therapy,"Nystatin, Fluconazole",7–14 days,Daily
+1004,Leukoplakia,White oral patches,"Monitoring, avoid irritants",No specific medicine,As needed,Not applicable
+1005,Oral Lichen Planus,"Lacy white patches, burning","Corticosteroids, immune modulators","Clobetasol, Tacrolimus",Weeks–months,Daily/topical
+1006,Cheilitis,"Dry, inflamed lips","Lip care, avoid irritants","Emollients, Hydrocortisone",Few days–1 week,Topical
+1007,Aphthous Ulcers,Small painful mouth ulcers,"Pain relief, topical steroids","Triamcinolone, Benzocaine",7–10 days,Topical
+1008,Oral Cancer,"Persistent sore, mouth lump","Surgery, radiotherapy, chemotherapy","Cisplatin, 5-FU",Months–years,As prescribed
+1009,Geographic Tongue,Red tongue patches,Usually none,Hydrocortisone (topical),As needed,"Topical, short-term"
+1010,Oral Herpes,"Oral blisters, pain",Antiviral therapy,"Acyclovir, Famciclovir",5–10 days,As needed
+1011,Pemphigus Vulgaris,Painful oral sores,Immunosuppressants,"Prednisone, Azathioprine",Months–years,Daily
+1012,Oral Fibroma,Painless oral lump,Surgical excision,Ibuprofen (post-op),One-time surgery,Few days post-op
+1013,Oral Melanoma,Dark oral lesion,Surgical excision,Interferon alpha,Varies,As prescribed
+1014,Fordyce Spots,Small yellow-white spots,Usually none,No specific medicine,None,Not applicable
+1015,Oral Papilloma,Wart-like growth,Surgical removal,No specific medicine,One-time,Not applicable
+1016,Oral Submucous Fibrosis,"Stiff mouth, burning","Steroids, avoid areca nut","Triamcinolone, Pentoxifylline",Months–years,Topical/systemic
+1017,Black Hairy Tongue,"Dark, furry tongue",Improve oral hygiene,Chlorhexidine mouthwash,1–2 weeks,Daily rinse
+1018,Kaposi's Sarcoma,Purple-red mouth spots,"ART, chemotherapy",Liposomal Doxorubicin,Months,As prescribed
+1019,Oral Candidiasis,White tongue coating,Antifungal treatment,"Fluconazole, Nystatin",7–14 days,Daily/topical
+1020,Denture Stomatitis,Red palate under denture,"Denture hygiene, antifungal therapy","Nystatin, Miconazole",1–2 weeks,Topical
+1021,Mucous Cyst (Mucocele),Fluid-filled oral bump,Surgical removal,No medicine,One-time,Not applicable
+1022,Oral Hemangioma,Reddish-blue lump,"Observation, laser therapy",No medicine,Varies,Not applicable
+1023,Oral Ulcers,"Mouth sores, pain","Treat cause, topical relief","Corticosteroids, Ibuprofen",1–2 weeks,As needed
+1024,Oral Pemphigoid,"Blisters, gum erosion",Immunosuppressants,"Prednisone, Azathioprine",Months–years,Daily
+1025,Sialolithiasis (Salivary Stones),Swollen painful gland,"Surgical removal, hydration",Paracetamol,One-time or recurrent,As needed
+1026,Oral HPV Infection,Wart-like oral lesions,"Monitoring, treatment of lesions",No medicine,Varies,Not applicable
+1027,Tongue Lacerations,"Tongue cuts, bleeding",Wound care,Amoxicillin (if infected),5–7 days (if needed),Oral
+1028,Lip Cancer,"Lip lump, ulcer","Surgery, radiotherapy, chemotherapy","Cisplatin, 5-FU",Months,As prescribed
+1029,Actinic Cheilitis,"Scaly, crusted lips","Sun protection, surgical excision",Topical 5-Fluorouracil,2–4 weeks,Topical
+1030,Oral Sarcoidosis,"Mouth nodules, dry mouth","Corticosteroids, immunosuppressants",Prednisone,Months,Daily
+1031,Tongue Cancer,"Tongue sore, difficulty speaking","Surgery, radiotherapy, chemotherapy","Cisplatin, 5-FU",Months,As prescribed
+1032,Oral Herpangina,Painful throat blisters,Supportive care,Ibuprofen,3–7 days,As needed
+1033,Oral Fibrous Hyperplasia,Soft lump from irritation,Surgical removal,Ibuprofen (post-op),One-time,Few days post-op
+1034,Traumatic Ulcer,Painful mouth sore,"Remove irritant, wound care",Acetaminophen,7–10 days,As needed
+1035,Cheilitis Glandularis,"Swollen, ulcerated lips","Surgery, antibiotics","Amoxicillin, topical steroids",7–10 days,Oral + topical
+1036,Tongue Papilloma,Small tongue growth,Surgical removal,No medicine,One-time,Not applicable
+1037,Oral Lymphoma,"Swelling, non-healing ulcers","Chemotherapy, radiotherapy",CHOP regimen,Months,As prescribed
+1038,Oral Granuloma,"Red, swollen oral lump",Surgical removal,No medicine,One-time,Not applicable
+1039,Oral Ulcerative Stomatitis,Severe painful ulcers,Supportive care,Topical corticosteroids,1–2 weeks,Topical
+1040,Geographic Tongue,Irregular red tongue patches,Symptomatic relief,Topical corticosteroids,As needed,Topical
+1041,Oral Subcutaneous Emphysema,"Swelling, air under tissue",Usually self-limiting,Supportive care,Few days,Not applicable
+1042,Parulis (Gum Boil),Swollen gum with pus,"Drainage, antibiotics",Amoxicillin,5–7 days,Oral
+1043,Tongue Tie (Ankyloglossia),Restricted tongue movement,Surgical correction,Acetaminophen (post-op),One-time,Few days post-op
+1044,Oral Manifestations of HIV,"Sores, candidiasis, dry mouth",Antiretroviral therapy,ART drugs,Lifelong,Daily
+1045,Oral Mucosal Burns,"Burned mucosa, pain","Remove irritant, pain relief",Ibuprofen,Few days,As needed
+1046,Oral Pemphigus,"Blisters, painful ulcers",Immunosuppressive therapy,"Prednisone, Azathioprine",Months–years,Daily
+1047,Oral Mucosal Melanoma,Dark pigmented lesion,Surgical excision,Immunotherapy,Months,As prescribed
+1048,Median Palatal Cyst,Mid-palate swelling,Surgical excision,No medicine,One-time,Not applicable
+1049,Oral Angioedema,Rapid oral swelling,"Antihistamines, corticosteroids","Diphenhydramine, Prednisone",Few days,As needed
+1050,Oral Tuberculosis,"Non-healing ulcers, swelling",Anti-tubercular therapy,"Isoniazid, Rifampicin",6–9 months,Daily
+1051,Onychomycosis (Nail Fungus),"Thick, discolored nails",Antifungal therapy,"Terbinafine, Itraconazole",6–12 weeks,Daily
+1052,Paronychia,"Red, swollen nail fold","Drainage, antibiotics",Amoxicillin-Clavulanate,5–7 days,Oral
+1053,Psoriasis (Nail),"Pitting, discoloration",Topical/systemic therapy,"Clobetasol, Methotrexate",Weeks–months,Topical/oral
+1054,Nail Trauma,"Pain, bleeding, bruising","Wound care, possible surgery",Ibuprofen,Few days,As needed
+1055,Beau’s Lines,Horizontal nail grooves,Treat underlying cause,No specific medicine,Varies,Not applicable
+1056,Onycholysis,Nail lifting from bed,"Avoid irritants, treat infection",Antifungal/antibacterial cream,1–3 weeks,Topical
+1057,Clubbing,"Curved, swollen fingertips",Treat underlying disease,No direct treatment,Varies,Not applicable
+1058,Ingrown Nail,"Painful, swollen nail edge","Nail surgery, antibiotics",Amoxicillin,5–7 days,Oral
+1059,Nail Psoriasis,"Pitting, thickening",Topical/systemic therapy,"Calcipotriol, Methotrexate",Weeks–months,Topical/oral
+1060,Onychogryphosis,"Thick, curved nail","Nail trimming, surgery",No medicine,Varies,Not applicable
+1061,Lichen Planus (Nail),"Nail ridges, thinning",Corticosteroids,Clobetasol,Weeks–months,Topical
+1062,Nail Melanoma,Dark nail streak,Surgical excision,No medicine,One-time,Not applicable
+1063,Nail Psoriasis,"Crumbling, discoloration",Systemic and topical therapy,"Methotrexate, Cyclosporine",Months,Weekly
+1064,Yellow Nail Syndrome,"Yellow nails, respiratory issues",Treat underlying cause,No specific medicine,Varies,Not applicable
+1065,Nail Paronychia,"Infected, swollen nail fold","Drainage, antibiotics",Cephalexin,5–7 days,Oral
+1066,Nail Eczema,"Itchy, inflamed nail folds",Topical steroids,"Hydrocortisone, Betamethasone",1–2 weeks,Topical
+1067,Koilonychia (Spoon Nails),Spoon-shaped nails,Treat underlying anemia/disease,Iron supplements,Weeks–months,Daily
+1068,Nail Psoriatic Arthritis,Nail pitting with joint pain,Systemic therapy,"Methotrexate, NSAIDs",Months–years,Weekly/oral
+1069,Nail Tumors,Nail mass or growth,Surgical excision,No medicine,One-time,Not applicable
+1070,Nail Biting (Onychophagia),Damaged nails and skin,Behavioral therapy,No medicine,Varies,Not applicable
+1071,Subungual Hematoma,Blood under nail,Drainage,No medicine,One-time,Not applicable
+1072,Nail Psoriasis,Nail deformation,Biologics and systemic drugs,"Adalimumab, Etanercept",Months,Injectable
+1073,Onychorrhexis (Brittle Nails),Longitudinal nail ridges,"Avoid irritants, moisturizers",Biotin supplements,Weeks–months,Daily
+1074,Subungual Exostosis,Bony growth under nail,Surgical removal,No medicine,One-time,Not applicable
+1075,Nail Fold Infections,"Swollen, tender nail folds",Antibiotics,"Dicloxacillin, Cephalexin",5–7 days,Oral
+1076,Periungual Warts,Wart around nail,"Cryotherapy, topical agents","Salicylic acid, Imiquimod",Weeks–months,Topical
+1077,Nail Dystrophy,Nail malformation,Treat underlying cause,No medicine,Varies,Not applicable
+1078,Nail Psoriasis,"Discoloration, separation",Phototherapy,UVB therapy,Weeks–months,As prescribed
+1079,Nail Mycosis,"Discolored, brittle nails",Oral antifungals,"Terbinafine, Itraconazole",6–12 weeks,Daily
+1080,Onychocryptosis (Ingrown Nail),"Red, painful nail edge","Surgery, antibiotics if infected",Amoxicillin,5–7 days,Oral
+1081,Nail Abscess,Pus-filled swelling,Incision and drainage,Cephalexin,5–7 days,Oral
+1082,Chronic Paronychia,Recurrent nail fold swelling,"Antifungal, steroids","Clotrimazole, Hydrocortisone",2–4 weeks,Topical
+1083,Yellow Nail Syndrome,"Yellow nails, lymphatic swelling",Manage underlying condition,No medicine,Varies,Not applicable
+1084,Nail Clubbing,"Enlarged fingertips, curved nails",Treat cardiopulmonary issues,No direct medicine,Varies,Not applicable
+1085,Nail Pigmentation Disorders,Discolored streaks,Diagnose and treat cause,Depends on diagnosis,Varies,Varies
+1086,Nail Bed Psoriasis,"Discoloration, thickening",Topical steroids,Betamethasone dipropionate,Weeks–months,Topical
+1087,Nail Fold Eczema,"Red, itchy nail folds",Topical corticosteroids,"Hydrocortisone, Betamethasone",1–2 weeks,Topical
+1088,Nail Bacterial Infections,"Swelling, redness",Antibiotics,"Dicloxacillin, Cephalexin",5–7 days,Oral
+1089,Nail Fold Tumors,Mass near nail fold,Surgical excision,No medicine,One-time,Not applicable
+1090,Nail Paronychia,"Tender, pus-filled nail fold",Antibiotics,Amoxicillin,5–7 days,Oral
+1091,Nail Psoriasis,"Nail deformation, pain",Biologics,"Ustekinumab, Secukinumab",Months,Injectable
+1092,Nail Pitting,Small dents in nail,Treat underlying psoriasis,Topical corticosteroids,Weeks,Topical
+1093,Nail Trauma,"Pain, blood under nail","Wound care, surgery if needed","Ibuprofen, Acetaminophen",Few days–1 week,As needed
+1094,Nail Discoloration,"Yellow, brown, or white nails",Treat underlying cause,Depends on cause,Varies,Varies
+1095,Subungual Hematoma,Painful blood accumulation,Drainage if painful,None,One-time,Not applicable
+1096,Nail Psoriasis (Severe),"Thickened, crumbling nails",Systemic therapy,"Methotrexate, Cyclosporine",Months,Weekly/oral
+1097,Nail Fold Cysts,Fluid-filled lump,Surgical removal,None,One-time,Not applicable
+1098,Nail Bed Melanoma,Dark spot or band on nail,Surgical excision,None,One-time,Not applicable
+1099,Nail Hypertrophy,Thickened nails,Treat underlying cause,None,Varies,Not applicable
+1100,Nail Bed Infection,"Swollen, red nail bed",Antibiotics,"Cephalexin, Dicloxacillin",5–7 days,Not applicable
+1101,Athlete’s Foot (Tinea Pedis),"Itchy, scaly feet",Antifungal topical/oral treatment,"Terbinafine, Clotrimazole",2–4 weeks,Daily
+1102,Plantar Warts,Rough bumps on soles,"Cryotherapy, salicylic acid","Salicylic acid, Imiquimod",Weeks–months,Topical daily
+1103,Ingrown Toenail,"Pain, swelling at nail edge","Nail trimming, surgical removal",Antibiotics if infected,Varies,5–7 days if infected
+1104,Onychomycosis (Toenail Fungus),"Thick, discolored toenails",Antifungal treatment,"Terbinafine, Itraconazole",6–12 weeks,Daily oral
+1105,Corns and Calluses,Thickened skin patches,"Padding, debridement",None,Varies,Not applicable
+1106,Foot Ulcers (Diabetic),Open wounds on feet,"Wound care, glycemic control",Antibiotics if infected,Weeks–months,If infected
+1107,Blisters,Fluid-filled skin bubbles,"Protection, hygiene",None,Few days,Not applicable
+1108,Heel Spurs,"Heel pain, stiffness","Pain relief, orthotics",NSAIDs (Ibuprofen),Weeks,As needed
+1109,Gouty Tophi,Swollen joints with crystals,"Diet control, uric acid-lowering drugs","Allopurinol, Colchicine",Long-term,Daily
+1110,Bunions (Hallux Valgus),Bony bump on big toe,"Footwear change, surgery",NSAIDs (Ibuprofen),Varies,As needed
+1111,Plantar Fasciitis,"Heel pain, morning stiffness","Stretching, orthotics, NSAIDs",NSAIDs (Ibuprofen),Weeks,As needed
+1112,Morton's Neuroma,"Foot pain, numbness","Shoe modification, corticosteroids",Corticosteroids,Weeks–months,Injection
+1113,Flat Feet (Pes Planus),Foot arch collapse,"Supportive shoes, orthotics",None,Varies,Not applicable
+1114,Achilles Tendinitis,Heel/back ankle pain,"Rest, ice, physical therapy",NSAIDs,Weeks,As needed
+1115,Chilblains (Pernio),"Red, itchy toes/fingers","Keep warm, avoid cold",Topical corticosteroids,1–2 weeks,Topical
+1116,Foot Corns,Painful thickened skin,"Padding, trimming, removal",None,Varies,Not applicable
+1117,Tinea Pedis (Interdigital),Itchy skin between toes,Antifungal topical/oral treatment,"Terbinafine, Clotrimazole",2–4 weeks,Topical
+1118,Heel Fissures,"Cracked, dry heels","Moisturizers, keratolytics",Urea cream,1–2 weeks,Topical
+1119,Foot Eczema,"Red, itchy patches","Moisturizers, corticosteroids",Hydrocortisone cream,1–2 weeks,Topical
+1120,Foot Cellulitis,"Red, swollen, warm skin",Antibiotics,"Cephalexin, Dicloxacillin",7–10 days,Oral
+1121,Tinea Unguium,"Yellow, brittle nails",Antifungal systemic treatment,"Terbinafine, Itraconazole",6–12 weeks,Daily oral
+1122,Verruca Plantaris,Painful wart under foot,"Cryotherapy, salicylic acid",Salicylic acid,Weeks–months,Topical
+1123,Foot Psoriasis,"Scaly, red patches","Topical corticosteroids, vitamin D analogs","Calcipotriol, Betamethasone",Weeks–months,Topical
+1124,Peripheral Arterial Disease,"Leg pain, cold foot","Lifestyle, vascular surgery",Cilostazol,Long-term,Daily oral
+1125,Foot Gangrene,"Black, dead tissue","Debridement, surgery, antibiotics",Broad-spectrum antibiotics,Until resolution,IV/Oral
+1126,Heel Bruise,Heel tenderness,"Rest, ice, NSAIDs",Ibuprofen,1–2 weeks,As needed
+1127,Foot Burns,"Redness, pain, peeling","Cooling, pain relief, wound care",Analgesics,Days–weeks,As needed
+1128,Foot Blisters,Fluid-filled bubbles,"Protection, hygiene",None,3–7 days,Not applicable
+1129,Foot Rash,"Red, itchy or dry skin","Remove irritant, corticosteroids",Hydrocortisone cream,1–2 weeks,Topical
+1130,Foot Lymphedema,Swelling in feet,"Compression therapy, physiotherapy",None,Ongoing,Not applicable
+1131,Diabetic Neuropathy,"Numbness, burning in feet","Glycemic control, symptom management","Pregabalin, Gabapentin",Long-term,Daily oral
+1132,Foot Pressure Sores,Skin breakdown,"Pressure relief, wound care",Antibiotics if infected,Weeks–months,If infected
+1133,Foot Ulcer Infection,"Pus, odor, redness","Antibiotics, wound care",Amoxicillin-Clavulanate,7–14 days,Oral
+1134,Foot Scabies,"Intense itch, burrows",Antiparasitic treatment,Permethrin cream,1–2 applications,Topical
+1135,Tinea Pedis Vesicular Type,Blisters on foot,Antifungal topical/oral treatment,"Terbinafine, Ketoconazole",2–4 weeks,Topical/oral
+1136,Foot Psoriasis Pustular Type,Pus-filled patches,Topical/systemic therapy,"Methotrexate, Acitretin",Weeks–months,Oral
+1137,Foot Hyperhidrosis,Excessive sweating,"Antiperspirants, Botox",Aluminum chloride,Ongoing,Topical/injectable
+1138,Foot Erythrasma,Red-brown toe patches,Topical antibiotics,Erythromycin,1–2 weeks,Topical/oral
+1139,Foot Lichen Planus,"Flat, purple papules",Topical corticosteroids,Clobetasol propionate,Weeks,Topical
+1140,Foot Candidiasis,"White patches, soreness",Antifungal treatment,"Fluconazole, Clotrimazole",1–2 weeks,Oral/topical
+1141,Foot Contact Dermatitis,"Red, itchy rash","Avoid irritants, corticosteroids",Hydrocortisone cream,1–2 weeks,Topical
+1142,Foot Eczema Varieties,"Dry, scaly, itchy skin","Moisturizers, corticosteroids","Betamethasone, Tacrolimus",Weeks,Topical
+1143,Foot Seborrheic Dermatitis,"Greasy, flaky patches","Antifungal shampoo, corticosteroids",Ketoconazole,1–2 weeks,Topical
+1144,Foot Psoriatic Arthritis,"Joint pain, swelling",Systemic anti-inflammatory treatment,"NSAIDs, Methotrexate",Months–years,Oral
+1145,Foot Raynaud’s Phenomenon,"Cold, blue toes","Avoid cold, vasodilators",Nifedipine,Varies,Oral
+1146,Foot Viral Infections,"Red, painful lesions",Supportive care,Acyclovir if needed,1–2 weeks,Oral if needed
+1147,Foot Bacterial Infections,"Swelling, redness, pus",Antibiotics,"Amoxicillin, Cephalexin",7–10 days,Oral
+1148,Foot Fungal Nail Infection,"Thickened, discolored nails",Systemic/topical antifungals,"Terbinafine, Ciclopirox",6–12 weeks,Oral/topical
+1149,Foot Eczema Nummular,Coin-shaped lesions,"Topical corticosteroids, moisturizers",Triamcinolone,1–3 weeks,Topical
+1150,Foot Hyperkeratosis,Thickened skin,"Keratolytics, moisturizers",Urea cream,Ongoing,Topical
+1151,Cellulitis,"Red, swollen, painful skin","Antibiotics, wound care","Cephalexin, Dicloxacillin",7–14 days,7–10 days
+1152,Varicose Veins,"Twisted, enlarged veins","Compression stockings, surgery",None,Ongoing,None
+1153,Deep Vein Thrombosis (DVT),"Leg swelling, pain","Anticoagulation, compression therapy","Warfarin, Rivaroxaban",3–6 months,3–6 months
+1154,Eczema,"Itchy, red, dry patches","Moisturizers, topical steroids","Hydrocortisone, Betamethasone",Ongoing,1–4 weeks (flare-up)
+1155,Psoriasis,"Scaly, inflamed plaques","Topical steroids, phototherapy","Calcipotriol, Methotrexate",Ongoing,Long-term
+1156,Lipodermatosclerosis,"Hard, red skin on legs","Compression therapy, skin care",None,Ongoing,None
+1157,Peripheral Artery Disease,"Leg cramps, weak pulse","Lifestyle changes, vascular surgery",Cilostazol,Ongoing,3–6 months or more
+1158,Leg Ulcers,Non-healing open sores,"Wound care, compression therapy",Antibiotics if infected,Weeks to months,7–14 days (if infected)
+1159,Lipomas,"Soft, painless lumps",Surgical excision,None,One-time (surgery),None
+1160,Lymphedema,Swollen legs or ankles,"Compression therapy, physiotherapy",None,Ongoing,None
+1161,Thigh Strain,Sudden thigh pain,"Rest, ice, physical therapy",NSAIDs (Ibuprofen),1–3 weeks,3–5 days
+1162,Shingles (Herpes Zoster),Painful rash with blisters,"Antiviral therapy, pain relief","Acyclovir, Gabapentin",1–2 weeks,7–10 days
+1163,Folliculitis,Red pimples or pustules,"Antibacterial washes, antibiotics","Mupirocin, Clindamycin",7–10 days,5–7 days
+1164,Hidradenitis Suppurativa,"Painful nodules, pus drainage","Antibiotics, surgery","Doxycycline, Clindamycin",Weeks to months,2–4 weeks
+1165,Erythema Nodosum,"Red, tender nodules","NSAIDs, corticosteroids","Ibuprofen, Prednisone",2–6 weeks,1–3 weeks
+1166,Lipedema,Fat buildup in legs,"Compression, liposuction",None,Ongoing,None
+1167,Stasis Dermatitis,"Itchy, flaky skin on lower legs","Compression therapy, moisturizers",Topical corticosteroids,Ongoing,1–2 weeks (flare-up)
+1168,Cellulite,"Dimpled, lumpy skin",Cosmetic treatments,None,Ongoing (cosmetic),None
+1169,Leg Fractures,"Swelling, pain, immobility","Immobilization, surgery",Pain relief,6–12 weeks,3–10 days
+1170,Bruises,Blue/purple skin discoloration,"Rest, ice, compression",None,3–7 days,None
+1171,Contact Dermatitis,"Itchy, red rash","Avoid irritants, corticosteroids",Hydrocortisone,1–2 weeks,5–10 days
+1172,Leg Burns,"Pain, redness, blisters","Cooling, wound care",Pain relief,1–3 weeks,3–7 days
+1173,Venous Insufficiency,"Leg swelling, heaviness","Compression, lifestyle changes",None,Ongoing,None
+1174,Sarcoidosis,"Red skin lesions, nodules","Corticosteroids, immunosuppressants",Prednisone,Months to years,Long-term
+1175,Dermatitis Herpetiformis,Itchy blisters,"Gluten-free diet, dapsone",Dapsone,Ongoing,Long-term
+1176,Leg Abscess,"Swollen, pus-filled lump","Incision and drainage, antibiotics","Clindamycin, Amoxicillin",1–2 weeks,7–10 days
+1177,Cutaneous Lupus Erythematosus,"Red patches, sun sensitivity","Topical steroids, immunosuppressants",Hydroxychloroquine,Ongoing,Long-term
+1178,Leg Psoriatic Arthritis,"Joint pain, swelling","NSAIDs, DMARDs","Methotrexate, Sulfasalazine",Ongoing,Long-term
+1179,Bullous Pemphigoid,Blistering of skin,"Corticosteroids, immunosuppressants",Prednisone,Months to years,Long-term
+1180,Necrobiosis Lipoidica,"Yellow-brown patches, thinning skin","Corticosteroids, wound care",Topical steroids,Weeks to months,2–4 weeks
+1181,Leg Sarcoma,Lump or swelling,"Surgery, chemotherapy, radiation",Chemotherapy drugs,Months,3–6 months
+1182,Leg Lymphedema,Chronic leg swelling,"Compression therapy, physiotherapy",None,Ongoing,None
+1183,Leg Psoriasis Vulgaris,Red plaques with silvery scales,"Topical steroids, phototherapy","Betamethasone, Calcipotriol",Ongoing,Long-term
+1184,Leg Cellulitis,"Pain, redness, warmth","Antibiotics, wound care","Cephalexin, Dicloxacillin",7–14 days,7–10 days
+1185,Erythema Multiforme,Target-like skin lesions,"Supportive care, corticosteroids",Prednisone,2–4 weeks,7–14 days
+1186,Leg Mycosis,"Itchy, flaky skin",Antifungal treatment,"Terbinafine, Itraconazole",2–4 weeks,2–4 weeks
+1187,Leg Abscess (Repeat),Pus-filled swelling,"Incision and drainage, antibiotics","Clindamycin, Amoxicillin",1–2 weeks,7–10 days
+1188,Leg Fungal Infection,"Scaling, itching",Antifungal topical/oral treatment,"Terbinafine, Clotrimazole",2–4 weeks,2–4 weeks
+1189,Leg Urticaria,"Raised, itchy welts","Antihistamines, corticosteroids","Loratadine, Diphenhydramine",1–2 weeks,5–10 days
+1190,Leg Scabies,"Intense itching, burrows",Antiparasitic creams,Permethrin cream,1 week (repeat if needed),1–2 applications
+1191,Leg Vitiligo,White patches on skin,"Topical corticosteroids, phototherapy",Clobetasol,Months to years,6–12 weeks (cycles)
+1192,Leg Lichen Planus,"Purple, flat bumps","Corticosteroids, immunosuppressants","Clobetasol, Tacrolimus",4–8 weeks,4–8 weeks
+1193,Leg Psoriatic Arthritis (Repeat),Joint inflammation,"NSAIDs, DMARDs","Methotrexate, Sulfasalazine",Ongoing,Long-term
+1194,Leg Angioma,Small red or purple lumps,"Laser therapy, surgery",None,One-time (if treated),None
+1195,Leg Warts,"Rough, raised lesions","Cryotherapy, topical treatments","Salicylic acid, Imiquimod",2–8 weeks,2–4 weeks
+1196,Leg Hemangioma,Red-blue raised lesion,"Observation, laser therapy",None,Variable,None
+1197,Leg Erysipelas,"Painful, bright red swelling",Antibiotics,"Penicillin, Amoxicillin",10–14 days,7–10 days
+1198,Leg Pityriasis Rosea,"Oval, scaly patches","Antihistamines, topical steroids","Hydrocortisone, Cetirizine",4–6 weeks,1–2 weeks
+1199,Leg Herpes Zoster,Painful rash with blisters,"Antivirals, pain management","Acyclovir, Gabapentin",1–2 weeks,7–10 days
+1200,Leg Angioedema,Swelling of skin layers,"Avoid triggers, antihistamines","Epinephrine, Diphenhydramine",1–3 days,1–3 days (acute phase)
+1201,Acne Vulgaris,"Pimples, blackheads, oily skin","Topical retinoids, antibiotics","Tretinoin, Doxycycline",6–12 weeks,4–8 weeks
+1202,Psoriasis,"Red, scaly patches","Topical corticosteroids, phototherapy","Betamethasone, Calcipotriol",Ongoing,Ongoing
+1203,Eczema (Atopic Dermatitis),"Itchy, dry, inflamed skin","Moisturizers, corticosteroids","Hydrocortisone, Tacrolimus",Ongoing,2–4 weeks (as needed)
+1204,Melanoma,Irregular dark mole/spot,"Surgical excision, immunotherapy","Nivolumab, Ipilimumab",Varies by stage,Per oncologist's plan
+1205,Warts,Rough skin growths,"Cryotherapy, salicylic acid","Salicylic acid, Imiquimod",4–12 weeks,4–8 weeks
+1206,Chickenpox,"Itchy blisters, fever","Symptomatic treatment, antivirals",Acyclovir,7–10 days,5–7 days
+1207,Scabies,"Intense itching, burrows",Topical scabicides,"Permethrin, Ivermectin",1–2 weeks,1–2 doses (oral)
+1208,Ringworm (Tinea),"Circular, itchy rashes",Antifungal creams,"Terbinafine, Clotrimazole",2–4 weeks,2–4 weeks
+1209,Contact Dermatitis,"Red, itchy rash","Avoid allergens, corticosteroids","Hydrocortisone, Prednisolone",1–2 weeks,5–10 days
+1210,Vitiligo,White skin patches,"Phototherapy, topical immunomodulators","Tacrolimus, Corticosteroids",Ongoing,Ongoing
+1211,Hives (Urticaria),Raised itchy welts,Antihistamines,"Cetirizine, Loratadine",1–2 weeks,5–10 days
+1212,Rosacea,"Facial redness, bumps","Topical metronidazole, oral antibiotics","Metronidazole, Doxycycline",8–12 weeks,4–8 weeks
+1213,Cellulitis,"Swollen, red skin",Antibiotics,"Cephalexin, Clindamycin",7–14 days,7–10 days
+1214,Boils (Furuncles),Painful lumps with pus,"Incision & drainage, antibiotics","Dicloxacillin, Clindamycin",7–10 days,5–7 days
+1215,Abscess,Pus-filled swelling,"Drainage, antibiotics",Amoxicillin-clavulanate,7–10 days,5–7 days
+1216,Seborrheic Dermatitis,"Flaky, greasy patches","Antifungal shampoos, corticosteroids","Ketoconazole, Hydrocortisone",Ongoing,2–4 weeks
+1217,Blepharitis,"Red, itchy eyelids","Eyelid hygiene, antibiotics",Azithromycin eye ointment,2–4 weeks,2–3 weeks
+1218,Chalazion,Eyelid bump,"Warm compresses, corticosteroid injections",Triamcinolone acetonide,2–4 weeks,Single dose (if injected)
+1219,Herpes Simplex,Painful blisters,Antiviral therapy,"Acyclovir, Valacyclovir",5–10 days,5–7 days
+1220,Oral Thrush,White patches in mouth,Antifungal medication,"Nystatin, Fluconazole",7–14 days,7–10 days
+1221,Cold Sores,"Tingling, painful blisters",Antiviral creams,"Acyclovir, Penciclovir",5–7 days,5–7 days
+1222,Head Lice,Itchy scalp,"Pediculicides, manual removal","Permethrin, Malathion",1–2 treatments,"Single dose, repeat in 7 days"
+1223,Alopecia Areata,Sudden hair loss,"Corticosteroids, immunotherapy","Triamcinolone, Minoxidil",Ongoing,Ongoing
+1224,Burns,"Redness, blistering","Wound care, pain relief",Silver sulfadiazine,Depends on severity,Daily until healed
+1225,Nail Fungus (Onychomycosis),"Discolored, thick nails",Antifungal therapy,"Terbinafine, Ciclopirox",6–12 weeks,6–12 weeks
+1226,Athlete's Foot (Tinea Pedis),"Peeling, itchy feet",Antifungal creams,"Terbinafine, Clotrimazole",2–4 weeks,2–4 weeks
+1227,Scalp Psoriasis,"Flaky scalp, redness","Topical corticosteroids, coal tar","Betamethasone, Salicylic acid",Ongoing,2–4 weeks intermittently
+1228,Lichen Planus,"Flat, purple bumps","Corticosteroids, antihistamines","Clobetasol, Hydroxyzine",2–6 weeks,2–4 weeks
+1229,Cutaneous Candidiasis,Red rash with satellite lesions,Antifungal creams,"Clotrimazole, Nystatin",1–2 weeks,7–14 days
+1230,Impetigo,Honey-colored crusts,Topical/systemic antibiotics,"Mupirocin, Cephalexin",5–10 days,5–7 days
+1231,Tinea Versicolor,Discolored patches,Antifungal lotions,"Selenium sulfide, Ketoconazole",2–4 weeks,2–4 weeks
+1232,Molluscum Contagiosum,"Small, pearly papules","Cryotherapy, curettage",None (usually self-limiting),2–4 weeks,Not applicable
+1233,Dermatofibroma,Firm brownish bump,Surgical excision,None,One-time,Not applicable
+1234,Actinic Keratosis,"Rough, scaly skin patch","Cryotherapy, topical agents","5-Fluorouracil, Imiquimod",2–6 weeks,2–6 weeks
+1235,Basal Cell Carcinoma,Pearly bump or ulcer,"Surgical removal, topical therapy","Imiquimod, Vismodegib",Per case,Per oncologist
+1236,Squamous Cell Carcinoma,"Scaly red patch, crusted nodule",Surgical excision,None,One-time,Not applicable
+1237,Keloid,Raised scar,"Corticosteroid injections, surgery",Triamcinolone,Several weeks,Weekly injections
+1238,Dermatographism,Raised red lines after scratching,Antihistamines,"Loratadine, Cetirizine",Ongoing,As needed
+1239,Sebaceous Cyst,"Painless, movable lump",Surgical excision,None,One-time,Not applicable
+1240,Lymphangioma,"Soft, spongy swelling",Surgical removal,None,One-time,Not applicable
+1241,Xerosis (Dry skin),"Dry, rough skin",Moisturizers,Emollients,Ongoing,Ongoing
+1242,Keratosis Pilaris,Bumpy skin on arms/thighs,"Exfoliation, moisturizers","Urea cream, Lactic acid",Ongoing,Ongoing
+1243,Erythema Multiforme,Target-like lesions,"Treat underlying cause, corticosteroids",Prednisone,1–3 weeks,5–10 days
+1244,Dermatitis Herpetiformis,"Itchy blisters on elbows, knees","Gluten-free diet, dapsone",Dapsone,Ongoing,Long term
+1245,Photosensitivity,Sun-induced rashes or burns,"Avoid sun exposure, sunscreens",Broad spectrum sunscreen,Ongoing,Ongoing
+1246,Porphyria Cutanea Tarda,"Fragile skin, blisters","Phlebotomy, avoid triggers",Hydroxychloroquine,Long term,6–12 months
+1247,Toxic Epidermal Necrolysis,"Skin peeling, high fever","Hospitalization, supportive care","IV Immunoglobulin, Steroids",Until stable,7–14 days
+1248,Pemphigus Vulgaris,Painful blisters,Immunosuppressants,"Prednisone, Azathioprine",Long term,Long term
+1249,Bullous Pemphigoid,"Large, fluid-filled blisters","Corticosteroids, immunosuppressants","Prednisone, Methotrexate",Long term,Long term
+1250,Cutaneous Lupus,Red scaly rash,"Sun protection, corticosteroids",Hydroxychloroquine,Ongoing,Long term
+1251,Acidity,"Heartburn, bloating, nausea","Avoid spicy foods, antacids","Omeprazole, Ranitidine",1–2 weeks,5–10 days
+1252,Common Cold,"Sneezing, sore throat, runny nose","Rest, hydration","Paracetamol, Antihistamines",3–7 days,3–5 days
+1253,Headache,"Throbbing pain, nausea, light sensitivity","Pain relievers, rest","Ibuprofen, Paracetamol",1–3 days,As needed
+1254,Constipation,"Hard stools, straining, infrequent stools","High fiber diet, laxatives","Lactulose, Isabgol",3–7 days,As needed
+1255,Cough,"Dry or productive cough, throat irritation","Hydration, cough suppressants","Dextromethorphan, Ambroxol",3–7 days,3–5 days
+1256,Diarrhea,"Loose stools, dehydration, cramps","ORS, diet control","Loperamide, ORS sachets",1–3 days,As needed
+1257,Fever,"High temperature, fatigue, chills","Antipyretics, rest","Paracetamol, Ibuprofen",2–5 days,3–5 days
+1258,Sore Throat,"Painful swallowing, irritation","Warm fluids, throat lozenges",Azithromycin (if bacterial),3–5 days,3 days (Azithromycin)
+1259,Body Pain,"Muscle ache, fatigue","Pain relief, rest","Ibuprofen, Paracetamol",1–3 days,As needed
+1260,Nausea,"Vomiting sensation, dizziness","Anti-emetics, hydration","Ondansetron, Domperidone",1–2 days,1–3 days
+1261,Gas/Bloating,"Abdominal discomfort, belching","Antacids, avoid gas-producing foods","Simethicone, Pantoprazole",2–5 days,3–5 days
+1262,Indigestion,"Bloating, discomfort after eating","Antacids, small meals","Pantoprazole, Digene",3–5 days,3–7 days
+1263,Back Pain,"Lower back ache, stiffness","Physiotherapy, rest","Diclofenac, Ibuprofen",3–7 days,3–5 days
+1264,Muscle Cramp,"Sudden pain, stiffness","Massage, hydration","Magnesium, Pain gel",1–3 days,As needed
+1265,Toothache,"Throbbing pain, gum swelling","Dental cleaning, painkillers","Clove oil, Ibuprofen",Until resolved,2–3 days
+1266,Acne,"Pimples, redness, oily skin","Cleansing, ointments","Benzoyl peroxide, Salicylic acid",4–8 weeks,Ongoing or intermittent
+1267,Dandruff,"Itchy scalp, flakes",Anti-dandruff shampoo,"Ketoconazole, Zinc pyrithione",2–4 weeks,2–3 weeks
+1268,Mouth Ulcers,Painful sores in mouth,"Oral gel, avoid spicy food","Benzocaine gel, Chlorhexidine",3–7 days,3–5 days
+1269,Itching,"Skin irritation, redness","Antihistamines, moisturizers","Cetirizine, Calamine lotion",3–7 days,3–5 days
+1270,Dry Skin,"Flaky skin, tightness",Moisturizers,"Petroleum jelly, Emollients",Ongoing,Ongoing
+1271,Ear Pain,"Throbbing pain, discharge","Ear drops, antibiotics (if infected)",Ciprofloxacin drops,5–7 days,5–7 days
+1272,Eye Irritation,"Redness, itching",Eye drops,Artificial tears,3–5 days,As needed
+1273,Fatigue,"Tiredness, weakness","Adequate sleep, nutrition","Vitamin B12, Iron supplements",1–2 weeks,2–4 weeks
+1274,Insomnia,Difficulty sleeping,Sleep hygiene,"Melatonin, Zolpidem",1–2 weeks,5–10 days
+1275,Sneezing,Sudden expulsion of air,Antihistamines,"Levocetirizine, Cetirizine",1–3 days,1–3 days
+1276,Allergies,"Sneezing, rashes","Avoid allergen, antihistamines","Loratadine, Fexofenadine",1–2 weeks,5–7 days
+1277,Heartburn,Burning chest sensation,"Antacids, lifestyle changes","Pantoprazole, Omeprazole",1–2 weeks,5–10 days
+1278,Breathlessness,Shortness of breath,"Inhalers, steam","Salbutamol, Levosalbutamol",As needed,3–5 days or ongoing
+1279,Cold Sores,Blisters near lips,Antiviral cream,Acyclovir cream,5–7 days,5–7 days
+1280,Skin Rashes,"Red patches, itching",Topical creams,"Hydrocortisone, Antihistamines",3–7 days,3–5 days
+1281,Weakness,Lack of energy,"Balanced diet, rest","Multivitamins, Iron",1–2 weeks,2–4 weeks
+1282,Hiccups,Involuntary sound from diaphragm,Water intake,Baclofen (if persistent),Few minutes to days,3–5 days if needed
+1283,Bleeding Gums,Gum bleeding while brushing,Oral hygiene,Chlorhexidine mouthwash,1–2 weeks,7–10 days
+1284,Night Sweats,Sweating at night,Lifestyle changes,Hormone therapy (if needed),Varies,As prescribed
+1285,Cold Hands/Feet,"Numbness, chill",Warm clothing,Nifedipine (if vascular cause),Seasonal,1–2 weeks
+1286,Hair Fall,"Hair thinning, hair loss","Hair oils, diet",Minoxidil,3–6 months,3–6 months
+1287,Sunburn,"Red, peeling skin","Aloe vera gel, sunscreen",Calamine lotion,3–5 days,As needed
+1288,Vomiting,"Nausea, expelling contents",Anti-emetics,"Ondansetron, Domperidone",1–2 days,1–3 days
+1289,Eye Strain,"Dryness, blurred vision",Rest eyes,Artificial tears,1–3 days,As needed
+1290,Tired Eyes,"Fatigue, blurry vision",Proper lighting,Lubricating drops,1–3 days,As needed
+1291,Nail Infection,"Thickened, yellow nails",Antifungal cream,"Clotrimazole, Terbinafine",2–4 weeks,2–4 weeks
+1292,Sleepiness,Excess drowsiness,Sleep routine,Modafinil (rarely used),Ongoing,As prescribed
+1293,Irritability,"Mood swings, frustration","Relaxation, counseling",Vitamin B complex,1–2 weeks,2–4 weeks
+1294,Swelling,"Puffy area, pain",Cold compress,Ibuprofen,1–3 days,1–3 days
+1295,Cracked Heels,"Dry, painful heel skin",Moisturizers,Urea cream,1–2 weeks,1–2 weeks
+1296,Dark Circles,Pigmentation under eyes,"Sleep, cold compress",Vitamin C serum,2–4 weeks,2–4 weeks
+1297,Puffy Eyes,Swollen eyelids,"Reduce salt, rest",Caffeine eye cream,1–3 days,1–2 weeks
+1298,Skin Peeling,"Flaky skin, dryness",Moisturizers,Emollient creams,1–2 weeks,1–2 weeks
+1299,Itchy Scalp,"Flaky, irritated scalp",Anti-dandruff shampoo,Ketoconazole,2–4 weeks,2–3 weeks
+1300,Dry Mouth,"Stickiness, thirst","Hydration, chewing gum",Saliva substitutes,As needed,As needed
+1301,Heat Rash,"Red bumps, itchiness","Cooling the skin, loose clothing",Calamine lotion,2–5 days,3–5 days
+1302,Nail Fungal Infection,"Discolored, brittle nails",Antifungal creams,Clotrimazole,2–4 weeks,2–4 weeks
+1303,Scalp Dandruff,"Itchy, flaky scalp",Medicated shampoos,"Ketoconazole, Zinc pyrithione",2–4 weeks,2–3 weeks
+1304,Mouth Ulcers,Painful sores in the mouth,"Salt water rinse, gels",Benzocaine gel,3–7 days,3–5 days
+1305,Eye Strain,"Dryness, discomfort","Rest eyes, eye drops",Artificial tears,1–3 days,As needed
+1306,Excess Sweating,"Wet palms, sweating",Antiperspirants,Aluminium chloride,Ongoing,Ongoing
+1307,Minor Cuts,"Bleeding, skin breaks","Cleaning, antiseptics","Betadine, Neosporin",3–5 days,3–5 days
+1308,Minor Burns,"Redness, blisters",Cold compress,Silver sulfadiazine cream,5–7 days,5–7 days
+1309,Bug Bites,"Itchy, red bumps",Anti-itch creams,Hydrocortisone cream,2–5 days,2–5 days
+1310,Flatulence,"Gas, bloating",Dietary changes,Simethicone,2–5 days,As needed
+1311,Nose Bleeds,Bleeding from nostrils,Cold compress,Nasal ointment,Few minutes to 1 day,1–3 days
+1312,Motion Sickness,"Nausea, dizziness",Anti-emetics,"Meclizine, Dimenhydrinate",Short-term,As needed
+1313,Menstrual Cramps,Abdominal cramps,Pain relief,"Mefenamic acid, Ibuprofen",1–3 days,As needed
+1314,Dry Eyes,"Irritation, dryness",Lubricating drops,Carboxymethylcellulose,Ongoing,As needed
+1315,Swollen Gums,"Gum enlargement, tenderness","Oral hygiene, rinse",Chlorhexidine,5–7 days,5–7 days
+1316,Bad Breath,Foul odor from mouth,Oral hygiene,Mouthwash,Ongoing,As needed
+1317,Sneezing Fits,Repeated sneezing,Avoid allergens,Levocetirizine,1–3 days,1–3 days
+1318,Runny Nose,Watery discharge,Nasal drops,Oxymetazoline,1–3 days,3–5 days
+1319,Chapped Lips,"Dry, cracked lips",Lip balm,Petroleum jelly,2–5 days,As needed
+1320,Teething Pain (kids),"Irritability, gum swelling",Cold chew toys,Lidocaine gel,Until teething ends,As needed
+1321,Mild Anxiety,"Restlessness, worry",Relaxation techniques,"Ashwagandha, Alprazolam",2–4 weeks,5–10 days
+1322,Mild Depression,"Sadness, lack of interest","Counseling, sunlight",SSRIs (under medical guidance),Ongoing,As prescribed
+1323,Gas Pain,Sharp abdominal discomfort,Avoid carbonated drinks,Simethicone,1–3 days,As needed
+1324,Travel Fatigue,"Lethargy, tiredness","Rest, hydration",Electrolyte drinks,1–2 days,As needed
+1325,Neck Pain,"Stiffness, soreness","Posture correction, physiotherapy",Diclofenac gel,3–5 days,3–5 days
+1326,Shoulder Pain,Pain with movement,"Heat therapy, exercise",Ibuprofen,3–7 days,3–5 days
+1327,Nose Congestion,Blocked nose,Steam inhalation,Xylometazoline,2–3 days,3–5 days
+1328,Light Sensitivity,"Squinting, discomfort","Sunglasses, rest eyes",Artificial tears,1–2 days,As needed
+1329,Ringworm,Red circular rashes,Antifungal cream,"Clotrimazole, Miconazole",2–4 weeks,2–4 weeks
+1330,Cracked Fingers,Painful splits on skin,"Moisturizer, gloves",Urea cream,1–2 weeks,1–2 weeks
+1331,Minor Bruises,Blue/purple marks,Ice pack,Arnica gel,2–5 days,2–3 days
+1332,Insect Sting,"Swelling, itching","Cold pack, cream",Hydrocortisone,1–3 days,1–3 days
+1333,Sweaty Feet,"Odor, dampness",Foot powder,Talcum powder,Ongoing,As needed
+1334,Ear Wax Block,Hearing difficulty,Ear drops,Hydrogen peroxide solution,3–5 days,3–5 days
+1335,Red Eyes,"Redness, itchiness",Eye drops,Naphazoline,1–3 days,1–3 days
+1336,Tinnitus (mild),Ringing in ears,Avoid loud noise,Ginkgo biloba extract,2–4 weeks,2–4 weeks
+1337,Stomach Ache,Cramping pain,"Antacids, rest","Drotaverine, Omeprazole",1–3 days,3–5 days
+1338,Travel Constipation,Infrequent bowel movement,"Hydration, fiber",Isabgol,1–3 days,As needed
+1339,Irritated Skin,"Redness, sensitivity","Moisturizers, avoid irritants",Emollient creams,3–5 days,3–5 days
+1340,Dehydration,"Thirst, dry mouth","Water, ORS",ORS sachets,1–2 days,As needed
+1341,Minor Sprains,"Swelling, movement pain","Ice, compression",Painkillers,3–5 days,3–5 days
+1342,Body Odor,Strong smell,"Hygiene, deodorants",Antiperspirants,Ongoing,As needed
+1343,Skin Tags,Painless skin growths,Cryotherapy (optional),None usually needed,Optional,—
+1344,Mild Lethargy,Sluggishness,"Proper sleep, nutrition",Vitamin B12,1–2 weeks,2–4 weeks
+1345,White Tongue,White coating,"Clean tongue, hydration",Antifungal (if due to thrush),3–5 days,3–7 days
+1346,Puffy Face,"Swelling, puffiness",Reduce salt intake,Diuretics (only if needed),2–5 days,3–5 days
+1347,Elbow Pain,Localized pain,"Rest, support",Diclofenac gel,3–5 days,3–5 days
+1348,Rashes (mild),"Red, itchy skin","Avoid allergen, cream",Calamine lotion,2–5 days,2–5 days
+1349,Warts,Rough skin growths,Topical solution,Salicylic acid,2–4 weeks,2–4 weeks
+1350,Hyperacidity,"Heartburn, nausea","Avoid triggers, antacids","Omeprazole, Ranitidine",5–10 days,5–7 days
